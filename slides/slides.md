@@ -55,4 +55,10 @@ for so their fathers did to the false prophets."
 
 [Luke 6:20-26 (ESV) (p.3/3)](# "ref")
 
+---
+## The Blessed Life [(Luke 6)](# "ref")
+1. Wealth [(v20/24)](# "ref")
+1. A Future [(v21/25)](# "ref")
+1. A Good Name [(v22-23/26)](# "ref")
+
 
