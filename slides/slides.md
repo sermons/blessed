@@ -219,18 +219,91 @@ for you shall **mourn** and weep.
 + cry + sorrow &rArr; laugh (**sounds**, expression)
 + e.g., JJ: world doesn't seem worse
   + today same as yester: just **play**
-+ godly grief: Am6:4-6, pride of Jacob
-+ first last
-+ Jn16:20-22 grief turn to joy, birth
 
 ---
-For I consider that the **sufferings** <br>
-of this present **time**
+[4](# "ref")
+Woe to those who lie on **beds** of ivory<br>
+and **stretch** themselves out on their couches,
 
-are not worth comparing <br>
-with the **glory** that is to be **revealed** to us.
+and eat lambs from the **flock**<br>
+and calves from the midst of the **stall**,
 
-[Romans 8:18 (ESV)](# "ref")
+[5](# "ref")
+who sing **idle songs** to the sound of the harp<br>
+and like David **invent** for themselves<br>
+instruments of music,
+
+[Amos 6:4-6 (ESV) (p.1/2)](# "ref")
+
+>>>
++ emphasis on **luxury**, ease
++ bed: **idle**, not working
++ flock: **abundance**, no fear of running out
++ songs: **boredom**, create busy work for selves
+  + lack of **purpose**, urgency
+
+---
+[6](# "ref")
+who drink wine in **bowls**
+and anoint themselves with the **finest oils**,
+
+but are not **grieved** over the **ruin of Joseph**!
+
+[Amos 6:4-6 (ESV) (p.2/2)](# "ref")
+
+>>>
++ grown accustomed to our life of **plenty**
+  + **laugh** + enjoy life
++ forgotten the **ruin** of our hearts
+  + families, church, country, world
++ Israel looked to **former** glory of temple
+  + **first love** childlike faith in Christ
++ hope in **future** restoration
+  + glory so much **greater** than worldly luxuries
++ **godly grief**: so much **sin** / hurt in world
+  + **pride** / independence from God
++ but this sorrow is only **temporary**:
+
+---
+[20](# "ref")
+Truly, truly, I say to you, <br>
+you will **weep** and lament,<br>
+but the world will **rejoice**.
+
+You will be **sorrowful**, <br>
+but your sorrow will turn into **joy**. 
+
+[John 16:20-22 (ESV) (p.1/3)](# "ref")
+
+---
+[21](# "ref")
+When a woman is giving **birth**,<br>
+she has **sorrow** because her hour has come,
+
+but when she has **delivered** the baby,<br>
+she **no longer remembers** the anguish,
+
+for **joy** that a human being has been<br>
+born into the world.
+
+[John 16:20-22 (ESV) (p.2/3)](# "ref")
+
+---
+[22](# "ref")
+So also you have sorrow **now**,<br>
+but I will **see you** again,
+
+and your **hearts** will rejoice,<br>
+and no one will **take** your joy from you.
+
+[John 16:20-22 (ESV) (p.3/3)](# "ref")
+
+>>>
++ **hope** that we have not yet received
++ **longing** for Christ but unable to **see** Him
++ when He **returns**
+  + our **faith** becomes **sight**
++ then our **hearts** will **rejoice**
 
 ---
 ## outline 3
@@ -245,13 +318,30 @@ on account of the **Son of Man**!
 [Luke 6:22 (ESV)](# "ref")
 
 >>>
-+ hated: emotion + choice to reject
++ hated: **emotion**, choice to **reject**
   + but don't hate back: v27
-+ excluded: draw line/horizon
-+ reviled: shame, disgrace, reproach
-  + 1Pet4:14 (12-16) reviled for name of Christ
-+ name thrown out as evil
-+ Jn15:19-20 vine world hated Jesus first
++ excluded: draw line/**horizon**, ostracized
++ reviled: **shame**, disgrace, reproach
++ name **thrown** out as evil
+
+---
+But **rejoice** insofar as <br>
+you share Christ's **sufferings**,<br>
+that you may also rejoice and be glad<br>
+when his **glory** is revealed.
+
+[14](# "ref")
+If you are **insulted** for the name of Christ,<br>
+you are **blessed**,<br>
+because the **Spirit** of glory and of God<br>
+rests upon you. 
+
+[1 Peter 4:13-14 (ESV)](# "ref")
+
+>>>
++ **share**: suffer bc we **follow** Christ
++ receive the **Holy Spirit** now
++ and a **promise** in heaven:
 
 ---
 **Rejoice** in that day, and **leap** for joy,<br>
@@ -262,7 +352,33 @@ for so their fathers did to the **prophets**.
 [Luke 6:23 (ESV)](# "ref")
 
 >>>
-+ reward: wages, due recompense
++ reward: **wages**, due recompense
++ in good **company**:
++ prophets spoke **word** of God
+  + and were **beaten**, ostracized
+  + branded **traitors**, shamed
+
+______
++ Jn15:19-20 vine world hated Jesus first
+
+---
+## [Amy Carmichael](https://www.christianity.com/church/church-history/timeline/1901-2000/amy-carmichael-kindly-kidnapper-11630664.html)
+
+<div class="imgbox">
+<div>![Amy with children](https://sermons.seanho.com/img/fig/Amy_Carmichael_with_children2.jpg)</div>
+<div>![Amy in India](https://sermons.seanho.com/img/fig/Amy_Carmichael_India.jpg)</div>
+</div>
+
+>>>
++ constant pain from **neuralgia**
++ to **serve** those **discarded** by society
+  + "**shawlies**" poor in Ireland
+  + "**temple** girls" in slavery in India
++ constant **threats** by those benefiting from slavery
++ "If my attitude be one of **fear**,
+  + not **faith**, then I know nothing 
+  + of **Calvary love**."
++ conversely, being **praised** by all is a **bad** sign:
 
 ---
 Woe to you, <br>
@@ -272,4 +388,17 @@ for so their fathers did to the **false prophets**.
 
 [Luke 6:26 (ESV)](# "ref")
 
+>>>
++ false prophets spoke what **audience** wanted to hear
+
+---
+For the time is coming when people <br>
+will not endure **sound teaching**,
+
+but having **itching ears** they will accumulate for <br>
+themselves **teachers** to suit their own **passions**
+
+[2 Timothy 4:3 (ESV)](# "ref")
+
+>>>
 
