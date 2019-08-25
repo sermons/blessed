@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="title" -->
 # The Blessed Life
 ## Luke 6:20-26
 
@@ -64,10 +64,11 @@ for so their fathers did to the false prophets."
 [Luke 6:20-26 (ESV) (p.4/4)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" class="outline" -->
 ## The Blessed Life [(Luke 6)](# "ref")
-1. An Inheritance [(v20/24)](# "ref")
-1. A Future [(v21/25)](# "ref")
-1. A Good Name [(v22-23/26)](# "ref")
+1. An **Inheritance** [(v20/24)](# "ref")
+1. A **Future** [(v21/25)](# "ref")
+1. A Good **Name** [(v22-23/26)](# "ref")
 
 >>>
 + reconsider what a **rich** life means
@@ -171,7 +172,11 @@ in the **midst** of his pursuits.
   + for yours is the **kingdom** of God
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
+## The Blessed Life [(Luke 6)](# "ref")
+1. An Inheritance [(v20/24)](# "ref")
+1. **A Future** [(v21/25)](# "ref")
+1. A Good Name [(v22-23/26)](# "ref")
 
 >>>
 + highlights **temporal** aspect:
@@ -321,7 +326,11 @@ and no one will **take** your joy from you.
   + my **heart** wil rejoice
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
+## The Blessed Life [(Luke 6)](# "ref")
+1. An Inheritance [(v20/24)](# "ref")
+1. A Future [(v21/25)](# "ref")
+1. **A Good Name** [(v22-23/26)](# "ref")
 
 ---
 Blessed are you when people **hate** you<br>
@@ -479,3 +488,21 @@ they will also keep yours.
   + our **citizenship** is in heaven
 + be a **prophet**: proclaim God's Word
   + not a **false** prophet: speaking what people want to hear
+
+---
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
+[22](# "ref")
+“Blessed are you when people **hate** you<br>
+and when they **exclude** you and **revile** you<br>
+and spurn your **name** as evil,<br>
+on account of the **Son of Man**!
+
+[23](# "ref")
+**Rejoice** in that day, and **leap** for joy,<br>
+for behold, your **reward** is great in heaven;<br>
+for so their fathers did to the **prophets**.
+
+[Luke 6:22-23 (ESV)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="empty" -->
