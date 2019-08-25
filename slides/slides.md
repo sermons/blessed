@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What **blessed** life do we **pursue**?
+# What constitutes a **blessed** life?
 
 >>>
 + `#blessed` **selfie** on tropical beach
@@ -160,7 +160,7 @@ in the **midst** of his pursuits.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I see **richness** in my **destitution** before God?
+# Do I find **richness** in my **destitution** before God?
 
 >>>
 + without experiencing utter **poverty**
@@ -364,14 +364,19 @@ ______
 ---
 ## [Amy Carmichael](https://www.christianity.com/church/church-history/timeline/1901-2000/amy-carmichael-kindly-kidnapper-11630664.html)
 
-<div class="imgbox">
-<div>![Amy with children](https://sermons.seanho.com/img/fig/Amy_Carmichael_with_children2.jpg)</div>
-<div>![Amy in India](https://sermons.seanho.com/img/fig/Amy_Carmichael_India.jpg)</div>
-</div>
+<div class="imgbox"><div>
+
+![Amy with children](https://sermons.seanho.com/img/fig/Amy_Carmichael_with_children2.jpg)
+
+</div><div>
+
+![Amy in India](https://sermons.seanho.com/img/fig/Amy_Carmichael_India.jpg)
+
+</div></div>
 
 >>>
-+ constant pain from **neuralgia**
-+ to **serve** those **discarded** by society
++ lifelong pain from **neuralgia**
++ chose to **serve** those **discarded** by society
   + "**shawlies**" poor in Ireland
   + "**temple** girls" in slavery in India
 + constant **threats** by those benefiting from slavery
@@ -390,6 +395,8 @@ for so their fathers did to the **false prophets**.
 
 >>>
 + false prophets spoke what **audience** wanted to hear
++ **reinforce** / affirm existing values
+  + encourages sinful **desires**:
 
 ---
 For the time is coming when people <br>
@@ -401,4 +408,10 @@ themselves **teachers** to suit their own **passions**
 [2 Timothy 4:3 (ESV)](# "ref")
 
 >>>
-
++ **heap** up, surround self w/ **agree**-ers
++ who validate own **pleasures**, whims
++ not to pursue **truth**, but to **tickle** self
+  + **satisfy** own desires
++ **don't** be one of those **teachers**!
++ in attempt to be **relatable** to non-Chr
+  + don't just **echo** how they speak
