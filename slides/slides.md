@@ -71,6 +71,40 @@ for yours is the **kingdom** of God.
 
 [Luke 6:20 (ESV)](# "ref")
 
+>>>
++ poor: **destitute** (crouching down)
+  + not **working** peasants
+  + utter **inability** to provide for self
+  + seen as **shameful** in Gr-Rom
++ **dependency** on God
+  + kingdom of God not to the working **righteous**
+  + but to the **forgiven**
+  + Lk17:20-21 kingdom of God is within you
+  + 1Cor6:9-11 inherit kingdom: but washed
+
+---
+Or do you not know that the **unrighteous** <br>
+will not inherit the **kingdom of God**?
+
+Do not be deceived: <br>
+neither the sexually **immoral**, nor **idolaters**,<br>
+... nor the **greedy**, ... nor **revilers**, ...<br>
+will **inherit** the kingdom of God.
+
+[I Corinthians 6:9-11 (ESV) (p.1/2)](# "ref")
+
+---
+And such were some of **you**.
+
+But you were **washed**, <br>
+you were **sanctified**,<br>
+you were **justified**
+
+in the name of the Lord **Jesus Christ** <br>
+and by the **Spirit** of our God.
+
+[I Corinthians 6:9-11 (ESV) (p.2/2)](# "ref")
+
 ---
 But woe to you who are **rich**,<br>
 for you have received your **consolation**.
@@ -80,9 +114,6 @@ for you have received your **consolation**.
 >>>
 + rich (abundance): have your encouragement
   + e.g. JJ too many toys
-+ poor: dependent
-  + Lk17:20-21 kingdom of God is within you
-  + 1Cor6:9-11 inherit kingdom: but washed
 
 ---
 ## outline 2
@@ -93,6 +124,7 @@ Blessed are you who are **hungry** now,<br>
 for you shall be **satisfied**.
 
 ______
+<!-- .element: style="width:30%" -->
 
 [25](# "ref")
 Woe to you who are **full** now,<br>
@@ -110,6 +142,7 @@ for you shall be hungry.
 for you shall **laugh**.
 
 ______
+<!-- .element: style="width:30%" -->
 
 [25](# "ref")
 “Woe to you who laugh now,<br>
@@ -135,6 +168,15 @@ on account of the **Son of Man**!
 
 [Luke 6:22 (ESV)](# "ref")
 
+>>>
++ hated: emotion + choice to reject
+  + but don't hate back: v27
++ excluded: draw line/horizon
++ reviled: shame, disgrace, reproach
+  + 1Pet4:14 (12-16) reviled for name of Christ
++ name thrown out as evil
++ Jn15:19-20 vine world hated Jesus first
+
 ---
 **Rejoice** in that day, and **leap** for joy,<br>
 for behold, your **reward** is great in heaven;
@@ -144,13 +186,7 @@ for so their fathers did to the **prophets**.
 [Luke 6:23 (ESV)](# "ref")
 
 >>>
-+ hated: emotion + choice to reject
-  + but don't hate back: v27
-+ excluded: draw line/horizon
-+ reviled: shame, disgrace, reproach
-  + 1Pet4:14 (12-16) reviled for name of Christ
-+ name thrown out as evil
-+ Jn15:19-20 vine world hated Jesus first
++ reward: wages, due recompense
 
 ---
 Woe to you, <br>
