@@ -92,7 +92,7 @@ for you have received your **consolation**.
 Blessed are you who are **hungry** now,<br>
 for you shall be **satisfied**.
 
---
+______
 
 [25](# "ref")
 Woe to you who are **full** now,<br>
@@ -108,6 +108,8 @@ for you shall be hungry.
 [21](# "ref")
 “Blessed are you who **weep** now,<br>
 for you shall **laugh**.
+
+______
 
 [25](# "ref")
 “Woe to you who laugh now,<br>
@@ -127,14 +129,16 @@ for you shall **mourn** and weep.
 ---
 Blessed are you when people **hate** you<br>
 and when they **exclude** you and **revile** you<br>
-and spurn your **name** as evil,<br>
+and spurn your **name** as evil,
+
 on account of the **Son of Man**!
 
 [Luke 6:22 (ESV)](# "ref")
 
 ---
 **Rejoice** in that day, and **leap** for joy,<br>
-for behold, your **reward** is great in heaven;<br>
+for behold, your **reward** is great in heaven;
+
 for so their fathers did to the **prophets**.
 
 [Luke 6:23 (ESV)](# "ref")
@@ -150,7 +154,8 @@ for so their fathers did to the **prophets**.
 
 ---
 Woe to you, <br>
-when all people **speak well** of you,<br>
+when all people **speak well** of you,
+
 for so their fathers did to the **false prophets**.
 
 [Luke 6:26 (ESV)](# "ref")
