@@ -173,6 +173,12 @@ in the **midst** of his pursuits.
 ---
 ## outline 2
 
+>>>
++ highlights **temporal** aspect:
+  + **now** vs **future**
++ Jesus tells us our future **hope**
+  + gives us strength to **endure**
+
 ---
 [21](# "ref")
 Blessed are you who are **hungry** now,<br>
@@ -189,7 +195,11 @@ for you shall be hungry.
 
 >>>
 + hunger &rArr; sated (fodder) / filled
-+ now vs future
++ Mt: hunger for **righteousness**
++ **discomfort**, yearning: things are **not right**
+  + world is broken under **sin**
++ if we are **satisfied** with the way things are
+  + we are **missing** out
 
 ---
 [21](# "ref")
@@ -206,10 +216,21 @@ for you shall **mourn** and weep.
 [Luke 6:21b, 25b (ESV)](# "ref")
 
 >>>
-+ cry + sorrow &rArr; laugh (sounds, expression)
++ cry + sorrow &rArr; laugh (**sounds**, expression)
++ e.g., JJ: world doesn't seem worse
+  + today same as yester: just **play**
 + godly grief: Am6:4-6, pride of Jacob
 + first last
 + Jn16:20-22 grief turn to joy, birth
+
+---
+For I consider that the **sufferings** <br>
+of this present **time**
+
+are not worth comparing <br>
+with the **glory** that is to be **revealed** to us.
+
+[Romans 8:18 (ESV)](# "ref")
 
 ---
 ## outline 3
