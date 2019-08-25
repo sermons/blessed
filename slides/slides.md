@@ -76,10 +76,13 @@ for so their fathers did to the false prophets."
 + whose **opinion** of us we care about
 
 ---
+<!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
 Blessed are you who are **poor**,<br>
 for yours is the **kingdom** of God.
 
 [Luke 6:20 (ESV)](# "ref")
+
+[Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
 + poor: **destitute** (crouching down)
@@ -92,6 +95,7 @@ for yours is the **kingdom** of God.
   + but to the **forgiven**
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 Or do you not know that the **unrighteous** <br>
 will not inherit the **kingdom of God**?
 
@@ -102,6 +106,8 @@ will **inherit** the kingdom of God.
 
 [I Corinthians 6:9-11 (ESV) (p.1/2)](# "ref")
 
+[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
+
 >>>
 + God is **holy**
 + inheriting His **kingdom** requires holiness
@@ -109,6 +115,7 @@ will **inherit** the kingdom of God.
   + **greed**, **anger**:
 
 ---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 And such were some of **you**.
 
 But you were **washed**, <br>
@@ -130,6 +137,7 @@ and by the **Spirit** of our God.
 + riches in **this life** are cold comfort:
 
 ---
+<!-- .slide: <%= bg("negativespace-money.jpg") %> -->
 But woe to you who are **rich**,<br>
 for you have received your **consolation**.
 
@@ -144,6 +152,7 @@ for you have received your **consolation**.
   + but it is so **fleeting**:
 
 ---
+<!-- .slide: <%= bg("unsplash-_jN5_9zu8DM-sunflower.jpg") %> -->
 For the **sun** rises with its scorching **heat**<br>
 and **withers** the grass;<br>
 its **flower** falls, and its **beauty** perishes.
@@ -185,6 +194,7 @@ in the **midst** of his pursuits.
   + gives us strength to **endure**
 
 ---
+<!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
 [21](# "ref")
 Blessed are you who are **hungry** now,<br>
 for you shall be **satisfied**.
@@ -198,6 +208,8 @@ for you shall be hungry.
 
 [Luke 6:21a, 25a (ESV)](# "ref")
 
+[Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
+
 >>>
 + hunger &rArr; sated (fodder) / filled
 + Mt: hunger for **righteousness**
@@ -207,6 +219,7 @@ for you shall be hungry.
   + we are **missing** out
 
 ---
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
 [21](# "ref")
 “Blessed are you who **weep** now,<br>
 for you shall **laugh**.
@@ -220,12 +233,15 @@ for you shall **mourn** and weep.
 
 [Luke 6:21b, 25b (ESV)](# "ref")
 
+[Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
+
 >>>
 + cry + sorrow &rArr; laugh (**sounds**, expression)
 + e.g., JJ: world doesn't seem worse
   + today same as yester: just **play**
 
 ---
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 [4](# "ref")
 Woe to those who lie on **beds** of ivory<br>
 and **stretch** themselves out on their couches,
@@ -240,6 +256,8 @@ instruments of music,
 
 [Amos 6:4-6 (ESV) (p.1/2)](# "ref")
 
+[Vita Vilcina, Spain](https://unsplash.com/photos/KtOid0FLjqU "caption")
+
 >>>
 + emphasis on **luxury**, ease
 + bed: **idle**, not working
@@ -248,6 +266,7 @@ instruments of music,
   + lack of **purpose**, urgency
 
 ---
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 [6](# "ref")
 who drink wine in **bowls**
 and anoint themselves with the **finest oils**,
@@ -270,6 +289,7 @@ but are not **grieved** over the **ruin of Joseph**!
 + but this sorrow is only **temporary**:
 
 ---
+<!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 [20](# "ref")
 Truly, truly, I say to you, <br>
 you will **weep** and lament,<br>
@@ -280,7 +300,10 @@ but your sorrow will turn into **joy**.
 
 [John 16:20-22 (ESV) (p.1/3)](# "ref")
 
+[Janko Ferlič, Koper, Slovenia](https://unsplash.com/photos/EpbIXGCrtK0 "caption")
+
 ---
+<!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 [21](# "ref")
 When a woman is giving **birth**,<br>
 she has **sorrow** because her hour has come,
@@ -294,6 +317,7 @@ born into the world.
 [John 16:20-22 (ESV) (p.2/3)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 [22](# "ref")
 So also you have sorrow **now**,<br>
 but I will **see you** again,
@@ -333,6 +357,7 @@ and no one will **take** your joy from you.
 1. **A Good Name** [(v22-23/26)](# "ref")
 
 ---
+<!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Blessed are you when people **hate** you<br>
 and when they **exclude** you and **revile** you<br>
 and spurn your **name** as evil,
@@ -340,6 +365,8 @@ and spurn your **name** as evil,
 on account of the **Son of Man**!
 
 [Luke 6:22 (ESV)](# "ref")
+
+[Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
 + hated: **emotion**, choice to **reject**
@@ -349,6 +376,7 @@ on account of the **Son of Man**!
 + name **thrown** out as evil
 
 ---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 But **rejoice** insofar as <br>
 you share Christ's **sufferings**,<br>
 that you may also rejoice and be glad<br>
@@ -362,18 +390,23 @@ rests upon you.
 
 [1 Peter 4:13-14 (ESV)](# "ref")
 
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
+
 >>>
 + **share**: suffer bc we **follow** Christ
 + receive the **Holy Spirit** now
 + and a **promise** in heaven:
 
 ---
+<!-- .slide: <%= bg("Riviere-Daniels_Answer_to_the_King.jpg") %> -->
 **Rejoice** in that day, and **leap** for joy,<br>
 for behold, your **reward** is great in heaven;
 
 for so their fathers did to the **prophets**.
 
 [Luke 6:23 (ESV)](# "ref")
+
+[Briton Rivière, "Daniel in the Lion's Den", 1892](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1615647&partId=1 "caption")
 
 >>>
 + reward: **wages**, due recompense
@@ -407,6 +440,7 @@ for so their fathers did to the **prophets**.
 + conversely, being **praised** by all is a **bad** sign:
 
 ---
+<!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
 Woe to you, <br>
 when all people **speak well** of you,
 
@@ -414,12 +448,15 @@ for so their fathers did to the **false prophets**.
 
 [Luke 6:26 (ESV)](# "ref")
 
+[Litchfield Park, Australia. Andy Fitzsimon](https://unsplash.com/photos/w8g2vws1VBQ "caption")
+
 >>>
 + false prophets spoke what **audience** wanted to hear
 + **reinforce** / affirm existing values
   + encourages sinful **desires**:
 
 ---
+<!-- .slide: <%= bg("human-ear-1462020301zmM.jpg") %> -->
 For the time is coming when people <br>
 will not endure **sound teaching**,
 
@@ -440,6 +477,7 @@ teachers to suit their own **passions**
 + but clearly communicate God's unchanging **truth**
 
 ---
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 [19](# "ref")
 If you were **of the world**,<br>
 the world would **love** you as its own;
@@ -448,7 +486,9 @@ but because you are **not** of the world,<br>
 but I **chose** you out of the world,<br>
 therefore the world **hates** you. 
 
-[John 15:19-20 (ESV) (p.2/2)](# "ref")
+[John 15:19-20 (ESV) (p.1/2)](# "ref")
+
+[Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
 + we do not **belong** to the world
@@ -459,6 +499,7 @@ therefore the world **hates** you.
   + so will **hate** us, too:
 
 ---
+<!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 [20](# "ref")
 Remember the word that I said to you:<br>
 ‘A **servant** is not greater than his **master**.’
