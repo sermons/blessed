@@ -88,10 +88,11 @@ for you have received your **consolation**.
 ## outline 2
 
 ---
+[21](# "ref")
 Blessed are you who are **hungry** now,<br>
 for you shall be **satisfied**.
 
-======
+--
 
 [25](# "ref")
 Woe to you who are **full** now,<br>
@@ -99,7 +100,12 @@ for you shall be hungry.
 
 [Luke 6:21a, 25a (ESV)](# "ref")
 
+>>>
++ hunger &rArr; sated (fodder) / filled
++ now vs future
+
 ---
+[21](# "ref")
 “Blessed are you who **weep** now,<br>
 for you shall **laugh**.
 
@@ -110,10 +116,8 @@ for you shall **mourn** and weep.
 [Luke 6:21b, 25b (ESV)](# "ref")
 
 >>>
-+ hunger &rArr; sated (fodder) / filled
 + cry + sorrow &rArr; laugh (sounds, expression)
 + godly grief: Am6:4-6, pride of Jacob
-+ now vs future
 + first last
 + Jn16:20-22 grief turn to joy, birth
 
