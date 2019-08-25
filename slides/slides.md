@@ -312,7 +312,7 @@ and no one will **take** your joy from you.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **grieve** over the **ruin** of our world?
+# Do I **grieve** <br> over the **ruin** <br> of our world?
 
 >>>
 + country, city, church, families, **self**
