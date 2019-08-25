@@ -306,6 +306,21 @@ and no one will **take** your joy from you.
 + then our **hearts** will **rejoice**
 
 ---
+<!-- .slide: data-background="white" -->
+# Do I **grieve** over the **ruin** of our world?
+
+>>>
++ country, city, church, families, **self**
++ ruin: **pride**, assert indep from God
++ if I am **comfortable**, idle
+  + I will be **wailing** when Christ brings judgment
++ but if I have **godly grief** over sin
+  + leading to personal **repentance**
+  + **longing** for Christ's return
+  + I have hope to **see** Him
+  + my **heart** wil rejoice
+
+---
 ## outline 3
 
 ---
@@ -358,9 +373,6 @@ for so their fathers did to the **prophets**.
   + and were **beaten**, ostracized
   + branded **traitors**, shamed
 
-______
-+ Jn15:19-20 vine world hated Jesus first
-
 ---
 ## [Amy Carmichael](https://www.christianity.com/church/church-history/timeline/1901-2000/amy-carmichael-kindly-kidnapper-11630664.html)
 
@@ -402,8 +414,9 @@ for so their fathers did to the **false prophets**.
 For the time is coming when people <br>
 will not endure **sound teaching**,
 
-but having **itching ears** they will accumulate for <br>
-themselves **teachers** to suit their own **passions**
+but having **itching ears** <br>
+they will **accumulate** for themselves <br>
+teachers to suit their own **passions**
 
 [2 Timothy 4:3 (ESV)](# "ref")
 
@@ -415,3 +428,54 @@ themselves **teachers** to suit their own **passions**
 + **don't** be one of those **teachers**!
 + in attempt to be **relatable** to non-Chr
   + don't just **echo** how they speak
++ but clearly communicate God's unchanging **truth**
+
+---
+[19](# "ref")
+If you were **of the world**,<br>
+the world would **love** you as its own;
+
+but because you are **not** of the world,<br>
+but I **chose** you out of the world,<br>
+therefore the world **hates** you. 
+
+[John 15:19-20 (ESV) (p.2/2)](# "ref")
+
+>>>
++ we do not **belong** to the world
+  + **called** out of it
++ citizenship, **home** is in heaven
+  + longing to **go** there
++ world **hated** Jesus
+  + so will **hate** us, too:
+
+---
+[20](# "ref")
+Remember the word that I said to you:<br>
+‘A **servant** is not greater than his **master**.’
+
+If they **persecuted** me,<br>
+they will also persecute you.
+
+If they **kept** my word,<br>
+they will also keep yours.
+
+[John 15:19-20 (ESV) (p.2/2)](# "ref")
+
+>>>
++ "Christ-ian": **small** Christ, follower
+  + **priorities**, values, thinking, actions
+
+---
+<!-- .slide: data-background="white" -->
+# Whose **approval** do I crave?
+
+>>>
++ **parents**, teachers
+  + **friends** / peers
+  + more "**likes**" on Facebook
++ have I **forgotten** who my **Master** is?
+  + He has **chosen** us out of the world
+  + our **citizenship** is in heaven
++ be a **prophet**: proclaim God's Word
+  + not a **false** prophet: speaking what people want to hear
