@@ -4,7 +4,11 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# What **blessed** life do we **pursue**?
+
+>>>
++ `#blessed` **selfie** on tropical beach
++ **enjoying** "good life"
 
 ******
 [20](# "ref")
@@ -65,6 +69,11 @@ for so their fathers did to the false prophets."
 1. A Future [(v21/25)](# "ref")
 1. A Good Name [(v22-23/26)](# "ref")
 
+>>>
++ reconsider what a **rich** life means
++ what the **future** holds
++ whose **opinion** of us we care about
+
 ---
 Blessed are you who are **poor**,<br>
 for yours is the **kingdom** of God.
@@ -75,12 +84,11 @@ for yours is the **kingdom** of God.
 + poor: **destitute** (crouching down)
   + not **working** peasants
   + utter **inability** to provide for self
+  + rely on **charity** of others
   + seen as **shameful** in Gr-Rom
 + **dependency** on God
-  + kingdom of God not to the working **righteous**
++ kingdom of God not to working **righteous**
   + but to the **forgiven**
-  + Lk17:20-21 kingdom of God is within you
-  + 1Cor6:9-11 inherit kingdom: but washed
 
 ---
 Or do you not know that the **unrighteous** <br>
@@ -92,6 +100,12 @@ neither the sexually **immoral**, nor **idolaters**,<br>
 will **inherit** the kingdom of God.
 
 [I Corinthians 6:9-11 (ESV) (p.1/2)](# "ref")
+
+>>>
++ God is **holy**
++ inheriting His **kingdom** requires holiness
++ not just about wicked **others**
+  + **greed**, **anger**:
 
 ---
 And such were some of **you**.
@@ -105,6 +119,15 @@ and by the **Spirit** of our God.
 
 [I Corinthians 6:9-11 (ESV) (p.2/2)](# "ref")
 
+>>>
++ this is **us**: not **working** to earn a living
+  + but **destitute**, dependent
++ **inheriting** kingdom as **adopted** children
+  + by Christ's **sacrifice**
+  + by God's **grace**
++ **this** is true **richness**!
++ riches in **this life** are cold comfort:
+
 ---
 But woe to you who are **rich**,<br>
 for you have received your **consolation**.
@@ -112,8 +135,40 @@ for you have received your **consolation**.
 [Luke 6:24 (ESV)](# "ref")
 
 >>>
-+ rich (abundance): have your encouragement
-  + e.g. JJ too many toys
++ rich (abundance): need anything, swipe **card**
+  + never know **lack**
++ never **realise** how far short we fall from God's standard
+  + or how much we **need** His grace
++ are receiving our **encouragement** now:
+  + but it is so **fleeting**:
+
+---
+For the **sun** rises with its scorching **heat**<br>
+and **withers** the grass;<br>
+its **flower** falls, and its **beauty** perishes.
+
+So also will the rich man **fade away**<br>
+in the **midst** of his pursuits.
+
+[James 1:11 (ESV)](# "ref")
+
+>>>
++ e.g., JJ **too many** toys
+  + becomes **stressful**
+  + lose their **fun**
+  + even **while** playing with them!
+
+---
+<!-- .slide: data-background="white" -->
+# Do I see **richness** in my **destitution** before God?
+
+>>>
++ without experiencing utter **poverty**
+  + **inability** to provide for self
++ never know true **encouragement** of **grace**
+  + what it feels like to be **forgiven**
++ blessed are you the **poor**,
+  + for yours is the **kingdom** of God
 
 ---
 ## outline 2
