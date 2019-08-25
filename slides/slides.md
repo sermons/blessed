@@ -61,12 +61,15 @@ for so their fathers did to the false prophets."
 
 ---
 ## The Blessed Life [(Luke 6)](# "ref")
-1. Wealth [(v20/24)](# "ref")
+1. An Inheritance [(v20/24)](# "ref")
 1. A Future [(v21/25)](# "ref")
 1. A Good Name [(v22-23/26)](# "ref")
 
 >>>
-+ kingdom of God is among you
++ rich (abundance): have your encouragement
+  + e.g. JJ too many toys
++ poor: dependent
+  + kingdom of God is among you
 
 ---
 ## outline 2
@@ -77,4 +80,10 @@ for so their fathers did to the false prophets."
 ## outline 3
 
 >>>
++ hated: emotion + choice to reject
+  + but don't hate back: v27
++ excluded: draw line/horizon
++ reviled: shame, disgrace, reproach
+  + 1Pet4:14 (12-16) reviled for name of Christ
++ name thrown out as evil
 
