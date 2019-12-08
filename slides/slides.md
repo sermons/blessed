@@ -9,6 +9,9 @@
 >>>
 + `#blessed` **selfie** on tropical beach
 + **enjoying** "good life"
++ Beatitudes: **value** system
+  + what we ought to deem **good**, success
+  + important, worth **pursuing**
 
 ******
 [20](# "ref")
@@ -81,7 +84,6 @@ Blessed are you who are **poor**,<br>
 for yours is the **kingdom** of God.
 
 [Luke 6:20 (ESV)](# "ref")
-
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
@@ -105,7 +107,6 @@ neither the sexually **immoral**, nor **idolaters**,<br>
 will **inherit** the kingdom of God.
 
 [I Corinthians 6:9-11 (ESV) (p.1/2)](# "ref")
-
 [Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 >>>
@@ -167,6 +168,7 @@ in the **midst** of his pursuits.
   + becomes **stressful**
   + lose their **fun**
   + even **while** playing with them!
+  + fun only while **new** (unboxing)
 
 ---
 <!-- .slide: data-background="white" -->
@@ -207,7 +209,6 @@ Woe to you who are **full** now,<br>
 for you shall be hungry.
 
 [Luke 6:21a, 25a (ESV)](# "ref")
-
 [Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
 
 >>>
@@ -232,7 +233,6 @@ ______
 for you shall **mourn** and weep.
 
 [Luke 6:21b, 25b (ESV)](# "ref")
-
 [Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
 
 >>>
@@ -255,7 +255,6 @@ and like David **invent** for themselves<br>
 instruments of music,
 
 [Amos 6:4-6 (ESV) (p.1/2)](# "ref")
-
 [Vita Vilcina, Spain](https://unsplash.com/photos/KtOid0FLjqU "caption")
 
 >>>
@@ -299,7 +298,6 @@ You will be **sorrowful**, <br>
 but your sorrow will turn into **joy**. 
 
 [John 16:20-22 (ESV) (p.1/3)](# "ref")
-
 [Janko Ferlič, Koper, Slovenia](https://unsplash.com/photos/EpbIXGCrtK0 "caption")
 
 ---
@@ -315,6 +313,9 @@ for **joy** that a human being has been<br>
 born into the world.
 
 [John 16:20-22 (ESV) (p.2/3)](# "ref")
+
+>>>
++ really true! forgot how painful
 
 ---
 <!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
@@ -345,9 +346,9 @@ and no one will **take** your joy from you.
   + I will be **wailing** when Christ brings judgment
 + but if I have **godly grief** over sin
   + leading to personal **repentance**
-  + **longing** for Christ's return
++ **longing** for Christ's return
   + I have hope to **see** Him
-  + my **heart** wil rejoice
+  + my **heart** will rejoice
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
@@ -355,6 +356,14 @@ and no one will **take** your joy from you.
 1. An Inheritance [(v20/24)](# "ref")
 1. A Future [(v21/25)](# "ref")
 1. **A Good Name** [(v22-23/26)](# "ref")
+
+>>>
++ better to be **poor**
+  + and learn to **depend** on God
++ better to be **grieved** over sin
+  + and **hope** in Christ's return
++ better to be **shamed** by the world
+  + and be **approved** by God
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
@@ -365,7 +374,6 @@ and spurn your **name** as evil,
 on account of the **Son of Man**!
 
 [Luke 6:22 (ESV)](# "ref")
-
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
@@ -389,7 +397,6 @@ because the **Spirit** of glory and of God<br>
 rests upon you. 
 
 [1 Peter 4:13-14 (ESV)](# "ref")
-
 [Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
 >>>
@@ -405,7 +412,6 @@ for behold, your **reward** is great in heaven;
 for so their fathers did to the **prophets**.
 
 [Luke 6:23 (ESV)](# "ref")
-
 [Briton Rivière, "Daniel in the Lion's Den", 1892](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1615647&partId=1 "caption")
 
 >>>
@@ -447,11 +453,11 @@ when all people **speak well** of you,
 for so their fathers did to the **false prophets**.
 
 [Luke 6:26 (ESV)](# "ref")
-
 [Litchfield Park, Australia. Andy Fitzsimon](https://unsplash.com/photos/w8g2vws1VBQ "caption")
 
 >>>
 + false prophets spoke what **audience** wanted to hear
++ getting lots of **likes** is **bad**!
 + **reinforce** / affirm existing values
   + encourages sinful **desires**:
 
@@ -478,7 +484,6 @@ teachers to suit their own **passions**
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
-[19](# "ref")
 If you were **of the world**,<br>
 the world would **love** you as its own;
 
@@ -487,7 +492,6 @@ but I **chose** you out of the world,<br>
 therefore the world **hates** you. 
 
 [John 15:19-20 (ESV) (p.1/2)](# "ref")
-
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
@@ -515,6 +519,14 @@ they will also keep yours.
 >>>
 + "Christ-ian": **small** Christ, follower
   + **priorities**, values, thinking, actions
++ easy to say I can do these:
+  + give up pursuing **money**
+    + to **depend** on God
+  + life of **sorrow** over brokenness
+    + waiting for **redemption**
+  + being **hated** / misunderstood
+    + following Christ's **priorities**
++ but would I wish this for my **children**?
 
 ---
 <!-- .slide: data-background="white" -->
