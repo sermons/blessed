@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What constitutes a **blessed** life?
+# What constitutes <br> a **blessed** life?
 
 >>>
 + `#blessed` **selfie** on tropical beach
@@ -166,9 +166,9 @@ in the **midst** of his pursuits.
 >>>
 + e.g., JJ **too many** toys
   + becomes **stressful**
-  + lose their **fun**
++ lose their **fun**
   + even **while** playing with them!
-  + fun only while **new** (unboxing)
++ fun only while **new** (unboxing)
 
 ---
 <!-- .slide: data-background="white" -->
@@ -177,7 +177,7 @@ in the **midst** of his pursuits.
 >>>
 + without experiencing utter **poverty**
   + **inability** to provide for self
-+ never know true **encouragement** of **grace**
++ never know true **blessing** of **grace**
   + what it feels like to be **forgiven**
 + blessed are you the **poor**,
   + for yours is the **kingdom** of God
@@ -214,9 +214,9 @@ for you shall be hungry.
 >>>
 + hunger &rArr; sated (fodder) / filled
 + Mt: hunger for **righteousness**
-+ **discomfort**, yearning: things are **not right**
++ **discomfort**, yearn: things **not right**
   + world is broken under **sin**
-+ if we are **satisfied** with the way things are
++ if we're **satisfied** with way things are
   + we are **missing** out
 
 ---
@@ -236,9 +236,12 @@ for you shall **mourn** and weep.
 [Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
 
 >>>
-+ cry + sorrow &rArr; laugh (**sounds**, expression)
++ cry + sorrow &rArr; laugh
+  + **sounds**, expression
 + e.g., JJ: world doesn't seem worse
   + today same as yester: just **play**
++ **Amos**: warn those who
+  + focus on play/**relaxation**:
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
