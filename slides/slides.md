@@ -1,6 +1,6 @@
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="title" -->
 # The Blessed Life
-# 幸福的生活
+# 蒙福的生活
 ## Luke 6:20-26
 
 ---
