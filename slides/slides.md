@@ -1,7 +1,7 @@
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="title" -->
 # The Blessed Life
 # 幸福的生活
-## Luke 6:20-26
+## Luke 路加 6:20-26
 
 ---
 <!-- .slide: data-background="white" -->
@@ -70,8 +70,8 @@ for so their fathers did to the false prophets."
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" class="outline" -->
 ## The Blessed Life [(Luke 6)](# "ref")
-1. An **Inheritance** [(v20/24)](# "ref")
-1. A **Future** [(v21/25)](# "ref")
+1. A Rich **Inheritance** [(v20/24)](# "ref")
+1. A Bright **Future** [(v21/25)](# "ref")
 1. A Good **Name** [(v22-23/26)](# "ref")
 
 >>>
@@ -186,8 +186,8 @@ in the **midst** of his pursuits.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
 ## The Blessed Life [(Luke 6)](# "ref")
-1. An Inheritance [(v20/24)](# "ref")
-1. **A Future** [(v21/25)](# "ref")
+1. A Rich Inheritance [(v20/24)](# "ref")
+1. **A Bright Future** [(v21/25)](# "ref")
 1. A Good Name [(v22-23/26)](# "ref")
 
 >>>
@@ -357,8 +357,8 @@ and no one will **take** your joy from you.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
 ## The Blessed Life [(Luke 6)](# "ref")
-1. An Inheritance [(v20/24)](# "ref")
-1. A Future [(v21/25)](# "ref")
+1. A Rich Inheritance [(v20/24)](# "ref")
+1. A Bright Future [(v21/25)](# "ref")
 1. **A Good Name** [(v22-23/26)](# "ref")
 
 >>>
