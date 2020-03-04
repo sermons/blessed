@@ -70,10 +70,9 @@ for so their fathers did to the false prophets."
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" class="outline" -->
 ## The Blessed Life [(Luke 6)](# "ref")
-1. A Rich **Inheritance** [(v20/24)](# "ref")
-1. A Bright **Future** [(v21/25)](# "ref")
-1. A Good **Name** [(v22-23/26)](# "ref")
-
+1. A Rich **Inheritance** <br> 富有的産業 [(v20/24)](# "ref")
+1. A Bright **Future** <br> 光明的未來 [(v21/25)](# "ref")
+1. A Good **Name** <br> 好的名聲 [(v22-23/26)](# "ref")
 >>>
 + reconsider what a **rich** life means
 + what the **future** holds
@@ -186,9 +185,9 @@ in the **midst** of his pursuits.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
 ## The Blessed Life [(Luke 6)](# "ref")
-1. A Rich Inheritance [(v20/24)](# "ref")
-1. **A Bright Future** [(v21/25)](# "ref")
-1. A Good Name [(v22-23/26)](# "ref")
+1. A Rich Inheritance <br> 富有的産業 [(v20/24)](# "ref")
+1. **A Bright Future** <br> 光明的未來 [(v21/25)](# "ref")
+1. A Good Name <br> 好的名聲 [(v22-23/26)](# "ref")
 
 >>>
 + highlights **temporal** aspect:
@@ -357,9 +356,9 @@ and no one will **take** your joy from you.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
 ## The Blessed Life [(Luke 6)](# "ref")
-1. A Rich Inheritance [(v20/24)](# "ref")
-1. A Bright Future [(v21/25)](# "ref")
-1. **A Good Name** [(v22-23/26)](# "ref")
+1. A Rich Inheritance <br> 富有的産業 [(v20/24)](# "ref")
+1. A Bright Future <br> 光明的未來 [(v21/25)](# "ref")
+1. **A Good Name** <br> 好的名聲 [(v22-23/26)](# "ref")
 
 >>>
 + better to be **poor**
