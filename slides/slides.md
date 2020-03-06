@@ -82,9 +82,20 @@ for so their fathers did to the false prophets."
 1. A Good **Name** <br> 好的名聲 [(v22-23/26)](# "ref")
 
 >>>
-+ reconsider what a **rich** life means
-+ what the **future** holds
-+ whose **opinion** of us we care about
++ In this version of the beatitudes in Luke,
+  + Jesus has 3 groups of **blessing**
+  + and 3 groups of **woe**
++ The first is about **money**:
+  + the **poor** in this life are the ones 
+  + who are truly **blessed**,
+  + not the **rich**!
++ The second group is about
+  + planning for the **future** 
+  + in light of God's **judgment**
++ The last group is about **reputation**:
+  + do I **care** more about 
+  + what **people** think of me
+  + or what **God** asks of me?
 
 ---
 <!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
@@ -95,14 +106,19 @@ for yours is the **kingdom** of God.
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
-+ poor: **destitute** (crouching down)
-  + not **working** peasants
-  + utter **inability** to provide for self
-  + rely on **charity** of others
-  + seen as **shameful** in Gr-Rom
-+ **dependency** on God
-+ kingdom of God not to working **righteous**
-  + but to the **forgiven**
++ Greek has a couple words for the **poor**:
+  + One is for **working** peasants,
+  + who have very little **money**,
+  + but are **hard-working**, doing manual labour.
++ The word used here is for the **destitute**:
+  + the word means "crouched down".
++ It refers to one who is utterly 
+  + **unable** to provide for himself,
+  + who relies on the **charity** of others
++ The Greeks and Romans deemed this **shameful**
++ So **why** does Jesus say these are **blessed**?
++ Because in truth, **all** of us are **destitute**,
+  + utterly **dependent** on God
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -139,6 +155,8 @@ and by the **Spirit** of our God.
 >>>
 + this is **us**: not **working** to earn a living
   + but **destitute**, dependent
++ The kingdom of God is given not to working **righteous**
+  + but to the **forgiven**
 + **inheriting** kingdom as **adopted** children
   + by Christ's **sacrifice**
   + by God's **grace**
