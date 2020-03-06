@@ -8,10 +8,17 @@
 # What constitutes <br> a **blessed** life?
 
 >>>
-+ **relaxing** on a tropical beach? 
-+ **enjoying** "good life"
-+ Beatitudes: **value** system
-  + what we ought to deem **good**, success
++ relaxing on a tropical **beach**? 
+  + good **friends**, happy **family**?
+  + enjoying the **"good life"**?
++ Today's passage is called the **Beatitudes**
+  + where Jesus tells us 
+  + what kind of people receive **blessing**
+  + and what kind receive **woe**
++ When we **remember** prophets of old
+  + and look **forward** to Christ's return,
++ we must adjust our **value** system:
+  + what we deem as **good**, successful
   + important, worth **pursuing**
 
 ******
@@ -73,6 +80,7 @@ for so their fathers did to the false prophets."
 1. A Rich **Inheritance** <br> 富有的産業 [(v20/24)](# "ref")
 1. A Bright **Future** <br> 光明的未來 [(v21/25)](# "ref")
 1. A Good **Name** <br> 好的名聲 [(v22-23/26)](# "ref")
+
 >>>
 + reconsider what a **rich** life means
 + what the **future** holds
