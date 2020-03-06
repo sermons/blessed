@@ -29,6 +29,14 @@ on his disciples, and said:
 “Blessed are you who are poor,<br>
 for yours is the kingdom of God.
 
+[20](# "ref")
+耶穌舉目看著門徒，說：<br>
+你們貧窮的人有福了！<br>
+因為神的國是你們的。
+
+[Luke 6:20-26 (ESV) (p.1/7)](# "ref")
+
+******
 [21](# "ref")
 “Blessed are you who are hungry now,<br>
 for you shall be satisfied.
@@ -36,7 +44,11 @@ for you shall be satisfied.
 “Blessed are you who weep now,<br>
 for you shall laugh.
 
-[Luke 6:20-26 (ESV) (p.1/4)](# "ref")
+[21](# "ref")
+你們飢餓的人有福了！ 因為你們將要飽足。<br>
+你們哀哭的人有福了！ 因為你們將要喜笑。
+
+[Luke 6:20-26 (ESV) (p.2/7)](# "ref")
 
 ******
 [22](# "ref")
@@ -45,18 +57,38 @@ and when they exclude you and revile you<br>
 and spurn your name as evil,<br>
 on account of the Son of Man!
 
+[22](# "ref")
+人為人子恨惡你們， 拒絕你們，<br>
+辱罵你們， 棄掉你們的名，<br>
+以為是惡， 你們就有福了！
+
+[Luke 6:20-26 (ESV) (p.3/7)](# "ref")
+
+******
 [23](# "ref")
 Rejoice in that day, and leap for joy,<br>
 for behold, your reward is great in heaven;<br>
 for so their fathers did to the prophets.
 
-[Luke 6:20-26 (ESV) (p.2/4)](# "ref")
+[23](# "ref")
+當那日， 你們要歡喜跳躍，<br>
+因為你們在天上的賞賜是大的。<br>
+他們的祖宗待先知也是這樣。
+
+[Luke 6:20-26 (ESV) (p.4/7)](# "ref")
 
 ******
 [24](# "ref")
 “But woe to you who are rich,<br>
 for you have received your consolation.
 
+[24](# "ref")
+但你們富足的人有禍了！<br>
+因為你們受過你們的安慰。
+
+[Luke 6:20-26 (ESV) (p.5/7)](# "ref")
+
+******
 [25](# "ref")
 “Woe to you who are full now,<br>
 for you shall be hungry.
@@ -64,7 +96,11 @@ for you shall be hungry.
 “Woe to you who laugh now,<br>
 for you shall mourn and weep.
 
-[Luke 6:20-26 (ESV) (p.3/4)](# "ref")
+[25](# "ref")
+你們飽足的人有禍了！ 因為你們將要飢餓。<br>
+你們喜笑的人有禍了！ 因為你們將要哀慟哭泣。
+
+[Luke 6:20-26 (ESV) (p.6/7)](# "ref")
 
 ******
 [26](# "ref")
@@ -72,7 +108,11 @@ for you shall mourn and weep.
 when all people speak well of you,<br>
 for so their fathers did to the false prophets."
 
-[Luke 6:20-26 (ESV) (p.4/4)](# "ref")
+[26](# "ref")
+人都說你們好的時候， 你們就有禍了！<br>
+因為他們的祖宗待假先知也是這樣。
+
+[Luke 6:20-26 (ESV) (p.7/7)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" class="outline" -->
