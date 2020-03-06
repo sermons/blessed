@@ -8,7 +8,7 @@
 # What constitutes <br> a **blessed** life?
 
 >>>
-+ `#blessed` **selfie** on tropical beach
++ **relaxing** on a tropical beach? 
 + **enjoying** "good life"
 + Beatitudes: **value** system
   + what we ought to deem **good**, success
