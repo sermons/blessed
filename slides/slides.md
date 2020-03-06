@@ -34,7 +34,7 @@ for yours is the kingdom of God.
 你們貧窮的人有福了！<br>
 因為神的國是你們的。
 
-[Luke 6:20-26 (ESV) (p.1/7)](# "ref")
+[Luke 路加 6:20-26 (ESV) (p.1/7)](# "ref")
 
 ******
 [21](# "ref")
@@ -48,7 +48,7 @@ for you shall laugh.
 你們飢餓的人有福了！ 因為你們將要飽足。<br>
 你們哀哭的人有福了！ 因為你們將要喜笑。
 
-[Luke 6:20-26 (ESV) (p.2/7)](# "ref")
+[Luke 路加 6:20-26 (ESV) (p.2/7)](# "ref")
 
 ******
 [22](# "ref")
@@ -62,7 +62,7 @@ on account of the Son of Man!
 辱罵你們， 棄掉你們的名，<br>
 以為是惡， 你們就有福了！
 
-[Luke 6:20-26 (ESV) (p.3/7)](# "ref")
+[Luke 路加 6:20-26 (ESV) (p.3/7)](# "ref")
 
 ******
 [23](# "ref")
@@ -75,7 +75,7 @@ for so their fathers did to the prophets.
 因為你們在天上的賞賜是大的。<br>
 他們的祖宗待先知也是這樣。
 
-[Luke 6:20-26 (ESV) (p.4/7)](# "ref")
+[Luke 路加 6:20-26 (ESV) (p.4/7)](# "ref")
 
 ******
 [24](# "ref")
@@ -86,7 +86,7 @@ for you have received your consolation.
 但你們富足的人有禍了！<br>
 因為你們受過你們的安慰。
 
-[Luke 6:20-26 (ESV) (p.5/7)](# "ref")
+[Luke 路加 6:20-26 (ESV) (p.5/7)](# "ref")
 
 ******
 [25](# "ref")
@@ -100,7 +100,7 @@ for you shall mourn and weep.
 你們飽足的人有禍了！ 因為你們將要飢餓。<br>
 你們喜笑的人有禍了！ 因為你們將要哀慟哭泣。
 
-[Luke 6:20-26 (ESV) (p.6/7)](# "ref")
+[Luke 路加 6:20-26 (ESV) (p.6/7)](# "ref")
 
 ******
 [26](# "ref")
@@ -112,11 +112,11 @@ for so their fathers did to the false prophets."
 人都說你們好的時候， 你們就有禍了！<br>
 因為他們的祖宗待假先知也是這樣。
 
-[Luke 6:20-26 (ESV) (p.7/7)](# "ref")
+[Luke 路加 6:20-26 (ESV) (p.7/7)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" class="outline" -->
-## The Blessed Life [(Luke 6)](# "ref")
+## The Blessed Life [(Luke 路加 6)](# "ref")
 1. A Rich **Inheritance** <br> 富有的産業 [(v20/24)](# "ref")
 1. A Bright **Future** <br> 光明的未來 [(v21/25)](# "ref")
 1. A Good **Name** <br> 好的名聲 [(v22-23/26)](# "ref")
@@ -142,7 +142,10 @@ for so their fathers did to the false prophets."
 Blessed are you who are **poor**,<br>
 for yours is the **kingdom** of God.
 
-[Luke 6:20 (ESV)](# "ref")
+你們貧窮的人有福了！<br>
+因為神的國是你們的。
+
+[Luke 路加 6:20 (ESV)](# "ref")
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
@@ -208,7 +211,10 @@ and by the **Spirit** of our God.
 But woe to you who are **rich**,<br>
 for you have received your **consolation**.
 
-[Luke 6:24 (ESV)](# "ref")
+但你們富足的人有禍了！<br>
+因為你們受過你們的安慰。
+
+[Luke 路加 6:24 (ESV)](# "ref")
 
 >>>
 + rich (abundance): need anything, swipe **card**
@@ -250,7 +256,7 @@ in the **midst** of his pursuits.
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
-## The Blessed Life [(Luke 6)](# "ref")
+## The Blessed Life [(Luke 路加 6)](# "ref")
 1. A Rich Inheritance <br> 富有的産業 [(v20/24)](# "ref")
 1. **A Bright Future** <br> 光明的未來 [(v21/25)](# "ref")
 1. A Good Name <br> 好的名聲 [(v22-23/26)](# "ref")
@@ -263,19 +269,24 @@ in the **midst** of his pursuits.
 
 ---
 <!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
-[21](# "ref")
 Blessed are you who are **hungry** now,<br>
 for you shall be **satisfied**.
 
-______
-<!-- .element: style="width:30%" -->
+你們飢餓的人有福了！ <br>
+因為你們將要飽足。
 
-[25](# "ref")
-Woe to you who are **full** now,<br>
-for you shall be hungry.
-
-[Luke 6:21a, 25a (ESV)](# "ref")
+[Luke 路加 6:21a (ESV)](# "ref")
 [Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
+Woe to you who are **full** now,<br>
+for you shall be **hungry**.
+
+你們飽足的人有禍了！<br>
+因為你們將要飢餓。
+
+[Luke 路加 6:25a (ESV)](# "ref")
 
 >>>
 + hunger &rArr; sated (fodder) / filled
@@ -287,19 +298,24 @@ for you shall be hungry.
 
 ---
 <!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
-[21](# "ref")
 “Blessed are you who **weep** now,<br>
 for you shall **laugh**.
 
-______
-<!-- .element: style="width:30%" -->
+你們哀哭的人有福了！ <br>
+因為你們將要喜笑。
 
-[25](# "ref")
+[Luke 路加 6:21b (ESV)](# "ref")
+[Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
 “Woe to you who laugh now,<br>
 for you shall **mourn** and weep.
 
-[Luke 6:21b, 25b (ESV)](# "ref")
-[Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
+你們喜笑的人有禍了！ <br>
+因為你們將要哀慟哭泣。
+
+[Luke 路加 6:25b (ESV)](# "ref")
 
 >>>
 + cry + sorrow &rArr; laugh
@@ -421,7 +437,7 @@ and no one will **take** your joy from you.
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
-## The Blessed Life [(Luke 6)](# "ref")
+## The Blessed Life [(Luke 路加 6)](# "ref")
 1. A Rich Inheritance <br> 富有的産業 [(v20/24)](# "ref")
 1. A Bright Future <br> 光明的未來 [(v21/25)](# "ref")
 1. **A Good Name** <br> 好的名聲 [(v22-23/26)](# "ref")
@@ -438,11 +454,14 @@ and no one will **take** your joy from you.
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Blessed are you when people **hate** you<br>
 and when they **exclude** you and **revile** you<br>
-and spurn your **name** as evil,
-
+and spurn your **name** as evil,<br>
 on account of the **Son of Man**!
 
-[Luke 6:22 (ESV)](# "ref")
+人為人子恨惡你們， 拒絕你們，<br>
+辱罵你們， 棄掉你們的名，<br>
+以為是惡， 你們就有福了！
+
+[Luke 路加 6:22 (ESV)](# "ref")
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
@@ -476,11 +495,14 @@ rests upon you.
 ---
 <!-- .slide: <%= bg("Riviere-Daniels_Answer_to_the_King.jpg") %> -->
 **Rejoice** in that day, and **leap** for joy,<br>
-for behold, your **reward** is great in heaven;
-
+for behold, your **reward** is great in heaven;<br>
 for so their fathers did to the **prophets**.
 
-[Luke 6:23 (ESV)](# "ref")
+當那日， 你們要歡喜跳躍，<br>
+因為你們在天上的賞賜是大的。<br>
+他們的祖宗待先知也是這樣。
+
+[Luke 路加 6:23 (ESV)](# "ref")
 [Briton Rivière, "Daniel in the Lion's Den", 1892](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1615647&partId=1 "caption")
 
 >>>
@@ -493,11 +515,14 @@ for so their fathers did to the **prophets**.
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
 Woe to you, <br>
-when all people **speak well** of you,
-
+when all people **speak well** of you,<br>
 for so their fathers did to the **false prophets**.
 
-[Luke 6:26 (ESV)](# "ref")
+人都說你們好的時候， <br>
+你們就有禍了！<br>
+因為他們的祖宗待假先知也是這樣。
+
+[Luke 路加 6:26 (ESV)](# "ref")
 [Litchfield Park, Australia. Andy Fitzsimon](https://unsplash.com/photos/w8g2vws1VBQ "caption")
 
 >>>
@@ -574,12 +599,26 @@ and when they **exclude** you and **revile** you<br>
 and spurn your **name** as evil,<br>
 on account of the **Son of Man**!
 
+[22](# "ref")
+人為人子恨惡你們， 拒絕你們，<br>
+辱罵你們， 棄掉你們的名，<br>
+以為是惡， 你們就有福了！
+
+[Luke 路加 6:22-23 (ESV) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 [23](# "ref")
 **Rejoice** in that day, and **leap** for joy,<br>
 for behold, your **reward** is great in heaven;<br>
 for so their fathers did to the **prophets**.
 
-[Luke 6:22-23 (ESV)](# "ref")
+[23](# "ref")
+當那日， 你們要歡喜跳躍，<br>
+因為你們在天上的賞賜是大的。<br>
+他們的祖宗待先知也是這樣。
+
+[Luke 路加 6:22-23 (ESV) (p.2/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="empty" -->
