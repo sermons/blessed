@@ -168,13 +168,28 @@ for yours is the **kingdom** of God.
 Or do you not know that the **unrighteous** <br>
 will not inherit the **kingdom of God**?
 
+你們豈不知不義的人<br>
+不能承受神的國麼？
+
+[I Corinthians 6:9-11 (ESV) (p.1/3)](# "ref")
+[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
+[9](# "ref")
 Do not be deceived: <br>
 neither the sexually **immoral**, nor **idolaters**,<br>
+[10](# "ref")
 ... nor the **greedy**, ... nor **revilers**, ...<br>
 will **inherit** the kingdom of God.
 
-[I Corinthians 6:9-11 (ESV) (p.1/2)](# "ref")
-[Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
+[9](# "ref")
+不要自欺！ 無論是淫亂的、 拜偶像的、<br>
+[10](# "ref")
+... 作孌童的、 ... 貪婪的、<br>
+... 都不能承受神的國。
+
+[I Corinthians 6:9-11 (ESV) (p.2/3)](# "ref")
 
 >>>
 + God is **holy**
@@ -184,16 +199,19 @@ will **inherit** the kingdom of God.
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
-And such were some of **you**.
-
+[11](# "ref")
+And such were some of **you**.<br>
 But you were **washed**, <br>
-you were **sanctified**,<br>
-you were **justified**
-
+you were **sanctified**, you were **justified**<br>
 in the name of the Lord **Jesus Christ** <br>
 and by the **Spirit** of our God.
 
-[I Corinthians 6:9-11 (ESV) (p.2/2)](# "ref")
+[11](# "ref")
+你中間也有人從前是這樣；<br>
+但如今你們奉主耶穌基督的名，<br>
+並藉著我們神的靈，已經洗淨，成聖，稱義了。
+
+[I Corinthians 6:9-11 (ESV) (p.3/3)](# "ref")
 
 >>>
 + this is **us**: not **working** to earn a living
@@ -309,7 +327,7 @@ for you shall **laugh**.
 
 ---
 <!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
-“Woe to you who laugh now,<br>
+“Woe to you who **laugh** now,<br>
 for you shall **mourn** and weep.
 
 你們喜笑的人有禍了！ <br>
