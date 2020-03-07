@@ -253,7 +253,7 @@ its **flower** falls, and its **beauty** perishes.
 So also will the rich man **fade away**<br>
 in the **midst** of his pursuits.
 
-[James 1:11 (ESV)](# "ref")
+[James 雅各 1:11 (ESV)](# "ref")
 
 >>>
 + e.g., our son has so many **toys** now
@@ -346,12 +346,12 @@ for you shall **mourn** and weep.
 [Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
 
 >>>
-+ cry + sorrow &rArr; laugh
-  + **sounds**, expression
-+ e.g., JJ: world doesn't seem worse
-  + today same as yester: just **play**
-+ **Amos**: warn those who
-  + focus on play/**relaxation**:
++ e.g., my son said the **world**
+  + doesn't seem to be getting **worse**,
+  + today is the same as **yesterday**: 
+  + everyday we just **play**!
++ But in **Amos**, God warns those who
+  + focus on play or **relaxation**:
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
@@ -362,70 +362,73 @@ and **stretch** themselves out on their couches,
 and eat lambs from the **flock**<br>
 and calves from the midst of the **stall**,
 
-[5](# "ref")
-who sing **idle songs** to the sound of the harp<br>
-and like David **invent** for themselves<br>
-instruments of music,
+[4](# "ref")
+你們躺臥在象牙床上，舒身在榻上，<br>
+吃群中的羊羔，棚裡的牛犢；
 
-[Amos 6:4-6 (ESV) (p.1/2)](# "ref")
+[Amos 阿摩司 6:4,6 (ESV) (p.1/2)](# "ref")
 [Vita Vilcina, Spain](https://unsplash.com/photos/KtOid0FLjqU "caption")
 
 >>>
-+ emphasis on **luxury**, ease
-+ bed: **idle**, not working
-+ flock: **abundance**, no fear of running out
-+ songs: **boredom**, create busy work for selves
-  + lack of **purpose**, urgency
++ The emphasis is on **luxury**, living at ease,
++ being **idle**, not working,
++ having an **abundance**, no fear of running out
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 [6](# "ref")
-who drink wine in **bowls**
+who drink wine in **bowls**<br>
 and anoint themselves with the **finest oils**,
 
 but are not **grieved** over the **ruin of Joseph**!
 
-[Amos 6:4-6 (ESV) (p.2/2)](# "ref")
+[6](# "ref")
+以大碗喝酒，用上等的油抹身，<br>
+卻不為約瑟的苦難擔憂。
+
+[Amos 阿摩司 6:4,6 (ESV) (p.2/2)](# "ref")
 
 >>>
-+ grown accustomed to our life of **plenty**
-  + **laugh** + enjoy life
-+ forgotten the **ruin** of our hearts
-  + families, church, country, world
-+ Israel looked to **former** glory of temple
-  + **first love** childlike faith in Christ
-+ hope in **future** restoration
-  + glory so much **greater** than worldly luxuries
-+ **godly grief**: so much **sin** / hurt in world
-  + **pride** / independence from God
-+ but this sorrow is only **temporary**:
++ We've grown accustomed to our life of **plenty**
+  + just **laugh** and enjoy life
++ We've forgotten the **ruin** of our hearts
+  + our families, church, country, world
++ **Godly grief**: so much **sin** / hurt in world
+  + because of our **pride** 
+  + desiring **independence** from God
++ But this sorrow is only **temporary**:
 
 ---
 <!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 [20](# "ref")
-Truly, truly, I say to you, <br>
-you will **weep** and lament,<br>
-but the world will **rejoice**.
-
+You will **weep** and lament,<br>
+but the world will **rejoice**.<br>
 You will be **sorrowful**, <br>
 but your sorrow will turn into **joy**. 
 
-[John 16:20-22 (ESV) (p.1/3)](# "ref")
+[20](# "ref")
+你們將要痛哭、哀號，世人倒要喜樂；<br>
+們將要憂愁，然而你們的憂愁要變為喜樂。
+
+[John 約翰 16:20-22 (ESV) (p.1/3)](# "ref")
 [Janko Ferlič, Koper, Slovenia](https://unsplash.com/photos/EpbIXGCrtK0 "caption")
 
 ---
 <!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 [21](# "ref")
 When a woman is giving **birth**,<br>
-she has **sorrow** because her hour has come,
-
+she has **sorrow** because her hour has come,<br>
 but when she has **delivered** the baby,<br>
-she **no longer remembers** the anguish,
-
+she **no longer remembers** the anguish,<br>
 for **joy** that a human being has been<br>
 born into the world.
 
-[John 16:20-22 (ESV) (p.2/3)](# "ref")
+[21](# "ref")
+婦人生產的時候就憂愁，因為他的時候到了；<br>
+既生了孩子，就不再記念那苦楚，<br>
+因為歡喜世上生了一個人。
+
+[John 約翰 16:20-22 (ESV) (p.2/3)](# "ref")
 
 >>>
 + really true! forgot how painful
@@ -439,7 +442,11 @@ but I will **see you** again,
 and your **hearts** will rejoice,<br>
 and no one will **take** your joy from you.
 
-[John 16:20-22 (ESV) (p.3/3)](# "ref")
+[22](# "ref")
+你們現在也是憂愁，但我要再見你們，<br>
+你們的心就喜樂了；這喜樂也沒有人能奪去。
+
+[John 約翰 16:20-22 (ESV) (p.3/3)](# "ref")
 
 >>>
 + **hope** that we have not yet received
@@ -501,19 +508,33 @@ on account of the **Son of Man**!
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
+[13](# "ref")
 But **rejoice** insofar as <br>
 you share Christ's **sufferings**,<br>
 that you may also rejoice and be glad<br>
 when his **glory** is revealed.
 
+[13](# "ref")
+倒要歡喜；因為你們是與基督一同受苦，<br>
+使你們在他榮耀顯現的時候，<br>
+也可以歡喜快樂。
+
+[1 Peter 彼得前 4:13-14 (ESV) (p.1/2)](# "ref")
+[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
+
+---
+<!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [14](# "ref")
 If you are **insulted** for the name of Christ,<br>
 you are **blessed**,<br>
 because the **Spirit** of glory and of God<br>
 rests upon you. 
 
-[1 Peter 4:13-14 (ESV)](# "ref")
-[Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
+[14](# "ref")
+你們若為基督的名受辱罵，便是有福的；<br>
+因為神榮耀的靈常住在你們身上。
+
+[1 Peter 彼得前 4:13-14 (ESV) (p.2/2)](# "ref")
 
 >>>
 + **share**: suffer bc we **follow** Christ
@@ -561,14 +582,19 @@ for so their fathers did to the **false prophets**.
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
+[19](# "ref")
 If you were **of the world**,<br>
-the world would **love** you as its own;
-
+the world would **love** you as its own;<br>
 but because you are **not** of the world,<br>
 but I **chose** you out of the world,<br>
 therefore the world **hates** you. 
 
-[John 15:19-20 (ESV) (p.1/2)](# "ref")
+[19](# "ref")
+你們若屬世界，世界必愛屬自己的；<br>
+只因你們不屬世界，<br>
+乃是我從世界中揀選了你們，所以世界就恨你們。
+
+[John 約翰 15:19-20 (ESV) (p.1/2)](# "ref")
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
@@ -583,15 +609,19 @@ therefore the world **hates** you.
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 [20](# "ref")
 Remember the word that I said to you:<br>
-‘A **servant** is not greater than his **master**.’
-
+‘A **servant** is not greater than his **master**.’<br>
 If they **persecuted** me,<br>
-they will also persecute you.
-
+they will also persecute you.<br>
 If they **kept** my word,<br>
 they will also keep yours.
 
-[John 15:19-20 (ESV) (p.2/2)](# "ref")
+[20](# "ref")
+你們要記念我從前對你們所說的話：<br>
+僕人不能大於主人。<br>
+他們若逼迫了我，也要逼迫你們；<br>
+若遵守了我的話，也要遵守你們的話。
+
+[John 約翰 15:19-20 (ESV) (p.2/2)](# "ref")
 
 >>>
 + "Christ-ian": **small** Christ, follower
