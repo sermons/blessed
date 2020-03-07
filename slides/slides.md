@@ -592,9 +592,10 @@ therefore the world **hates** you.
 [19](# "ref")
 你們若屬世界，世界必愛屬自己的；<br>
 只因你們不屬世界，<br>
-乃是我從世界中揀選了你們，所以世界就恨你們。
+乃是我從世界中揀選了你們，<br>
+所以世界就恨你們。
 
-[John 約翰 15:19-20 (ESV) (p.1/2)](# "ref")
+[John 約翰 15:19,20 (ESV) (p.1/2)](# "ref")
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
@@ -608,24 +609,22 @@ therefore the world **hates** you.
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 [20](# "ref")
-Remember the word that I said to you:<br>
-‘A **servant** is not greater than his **master**.’<br>
 If they **persecuted** me,<br>
 they will also persecute you.<br>
 If they **kept** my word,<br>
 they will also keep yours.
 
 [20](# "ref")
-你們要記念我從前對你們所說的話：<br>
-僕人不能大於主人。<br>
 他們若逼迫了我，也要逼迫你們；<br>
 若遵守了我的話，也要遵守你們的話。
 
-[John 約翰 15:19-20 (ESV) (p.2/2)](# "ref")
+[John 約翰 15:19,20 (ESV) (p.2/2)](# "ref")
 
 >>>
 + "Christ-ian": **small** Christ, follower
   + **priorities**, values, thinking, actions
++ "A **servant** is not greater than his **master**"
+  + 僕人不能大於主人
 + easy to say I can do these:
   + give up pursuing **money**
     + to **depend** on God
