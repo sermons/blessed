@@ -5,7 +5,8 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What constitutes <br> a **blessed** life?
+## What constitutes <br> a **blessed** life?
+## 什麼構成蒙福的人生? 
 
 >>>
 + relaxing on a tropical **beach**? 
@@ -268,7 +269,8 @@ in the **midst** of his pursuits.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I feel I am **rich** because I am **dependent** on God?
+## Do I feel I am **rich** because I am **dependent** on God?
+## 因為我依靠神，我覺得我是富有的嗎?
 
 >>>
 + Do I realise how **wretched** I am
@@ -461,7 +463,8 @@ and no one will **take** your joy from you.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **grieve** <br> over the **ruin** <br> of our world?
+## Do I **grieve** <br> over the **ruin** <br> of our world?
+## 我會為世上的敗壞而傷心嗎？
 
 >>>
 + Our country, city, church, families, 
@@ -663,7 +666,8 @@ they will also keep yours.
 
 ---
 <!-- .slide: data-background="white" -->
-# Whose **approval** do I crave?
+## Whose **approval** do I crave?
+## 我渴望得到誰的認可？
 
 >>>
 + It's one thing to say that I **myself** can
