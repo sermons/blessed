@@ -431,7 +431,10 @@ born into the world.
 [John 約翰 16:20-22 (ESV) (p.2/3)](# "ref")
 
 >>>
-+ really true! forgot how painful
++ It's really true!
++ The **pain** of childbirth
+  + is **forgotten** because of
+  + the **joy** of a new baby
 
 ---
 <!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
@@ -449,26 +452,31 @@ and no one will **take** your joy from you.
 [John 約翰 16:20-22 (ESV) (p.3/3)](# "ref")
 
 >>>
-+ **hope** that we have not yet received
-+ **longing** for Christ but unable to **see** Him
-+ when He **returns**
-  + our **faith** becomes **sight**
-+ then our **hearts** will **rejoice**
++ This is the **hope** that we have not yet received:
+  + we are **longing** for Christ,
+  + unable to **see** Him,
++ but when He **returns**
+  + our **faith** will become **sight**,
++ and then our **hearts** will **rejoice**
 
 ---
 <!-- .slide: data-background="white" -->
 # Do I **grieve** <br> over the **ruin** <br> of our world?
 
 >>>
-+ country, city, church, families, **self**
-+ ruin: **pride**, assert indep from God
-+ if I am **comfortable**, idle
-  + I will be **wailing** when Christ brings judgment
-+ but if I have **godly grief** over sin
-  + leading to personal **repentance**
-+ **longing** for Christ's return
++ Our country, city, church, families, 
+  + and even our **own** sin
++ Our **pride**, wanting to assert 
+  + **independence** from God
++ If I am **comfortable**, idle
+  + I will be **wailing** when Christ comes
+  + with His **judgment**
++ But if I have **godly grief** over sin
+  + leading to **repentance**
+  + a **change** of heart;
++ if I **long** for Christ's return
   + I have hope to **see** Him
-  + my **heart** will rejoice
+  + and my **heart** will rejoice
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
@@ -478,11 +486,11 @@ and no one will **take** your joy from you.
 1. **A Good Name** <br> 好的名聲 [(v22-23/26)](# "ref")
 
 >>>
-+ better to be **poor**
++ It is better to be **poor**
   + and learn to **depend** on God
-+ better to be **grieved** over sin
++ It is better to **grieve** over sin
   + and **hope** in Christ's return
-+ better to be **shamed** by the world
++ It is better to be **shamed** by the world
   + and be **approved** by God
 
 ---
@@ -500,11 +508,21 @@ on account of the **Son of Man**!
 [Ukraine. Paul Itkin](https://unsplash.com/photos/xCdFXXoZkJc "caption")
 
 >>>
-+ hated: **emotion**, choice to **reject**
-  + but don't hate back: v27
-+ excluded: draw line/**horizon**, ostracized
-+ reviled: **shame**, disgrace, reproach
-+ name **thrown** out as evil
++ On **account** of Christ,
++ are we ok with being **hated**:
+  + **rejected** and opposed by the world
+  + **without** hating them back,
+  + as v27 reminds us?
++ Are we ok with being **excluded**:
+  + the world draws a **horizon** line,
++ and **reviles** us:
+  + deems us as **shameful**, 
+  + a **disgrace**, a reproach?
++ They will use even our **name**
+  + and the name **"Christian"**
+  + as an **insult**
+  + as something deemed **wicked**
++ How should we **respond**?
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
@@ -522,6 +540,10 @@ when his **glory** is revealed.
 [1 Peter 彼得前 4:13-14 (ESV) (p.1/2)](# "ref")
 [Dominik QN, Thailand](https://unsplash.com/photos/9gGQvhC4PEY "caption")
 
+>>>
++ Rejoice, not because of the **shame**
++ but because we **follow** in Christ's footsteps
+
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [14](# "ref")
@@ -537,9 +559,12 @@ rests upon you.
 [1 Peter 彼得前 4:13-14 (ESV) (p.2/2)](# "ref")
 
 >>>
-+ **share**: suffer bc we **follow** Christ
-+ receive the **Holy Spirit** now
-+ and a **promise** in heaven:
++ There's no **honor** in suffering for doing **wrong**
++ But if we suffer for the name of **Christ**
++ We are **blessed**, and
+  + we are **not alone**:
++ We receive the **Holy Spirit** now
+  + and a **promise** in heaven:
 
 ---
 <!-- .slide: <%= bg("Riviere-Daniels_Answer_to_the_King.jpg") %> -->
@@ -555,11 +580,15 @@ for so their fathers did to the **prophets**.
 [Briton Rivière, "Daniel in the Lion's Den", 1892](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1615647&partId=1 "caption")
 
 >>>
-+ reward: **wages**, due recompense
-+ in good **company**:
-+ prophets spoke **word** of God
++ And we'll be in good **company**:
++ The Old Testament **prophets** 
+  + spoke the **word** of God
   + and were **beaten**, ostracized
-  + branded **traitors**, shamed
+  + branded **traitors**, and shamed
++ We also have **God's Word**
+  + and we have the same **task**
+  + to **proclaim** it boldly
+  + just like the **prophets** did
 
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
@@ -575,10 +604,12 @@ for so their fathers did to the **false prophets**.
 [Litchfield Park, Australia. Andy Fitzsimon](https://unsplash.com/photos/w8g2vws1VBQ "caption")
 
 >>>
-+ false prophets spoke what **audience** wanted to hear
-+ getting lots of **likes** is **bad**!
-+ **reinforce** / affirm existing values
-  + encourages sinful **desires**:
++ It was the **false** prophets 
+  + who were **admired** and welcomed
++ because they spoke only 
+  + what the **audience** wanted to hear
++ They were only **reinforcing** existing values,
+  + supporting the **sinful** nature
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
@@ -599,12 +630,10 @@ therefore the world **hates** you.
 [Samuel Ferrara](https://unsplash.com/photos/IEHPDNk2-8w "caption")
 
 >>>
-+ we do not **belong** to the world
-  + **called** out of it
-+ citizenship, **home** is in heaven
-  + longing to **go** there
-+ world **hated** Jesus
-  + so will **hate** us, too:
++ We do not **belong** to the world
+  + we are **called** out of it
++ Our citizenship, our **home** is in heaven
+  + and we long to **go** there
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
@@ -621,32 +650,32 @@ they will also keep yours.
 [John 約翰 15:19,20 (ESV) (p.2/2)](# "ref")
 
 >>>
-+ "Christ-ian": **small** Christ, follower
-  + **priorities**, values, thinking, actions
 + "A **servant** is not greater than his **master**"
   + 僕人不能大於主人
-+ easy to say I can do these:
-  + give up pursuing **money**
-    + to **depend** on God
-  + life of **sorrow** over brokenness
-    + waiting for **redemption**
-  + being **hated** / misunderstood
-    + following Christ's **priorities**
-+ but would I wish this for my **children**?
++ The world **hated** Jesus,
+  + so they will **hate** us, too:
++ To be a **disciple** of Christ
+  + means aligning our **priorities** with His:
+  + our **values**, thinking, and **actions**
++ This means most people will **misunderstand** us
++ Do I **care** more about following **Christ**
+  + than about winning other people's **approval**?
 
 ---
 <!-- .slide: data-background="white" -->
 # Whose **approval** do I crave?
 
 >>>
-+ **parents**, teachers
-  + **friends** / peers
-  + more "**likes**" on Facebook
-+ have I **forgotten** who my **Master** is?
-  + He has **chosen** us out of the world
-  + our **citizenship** is in heaven
-+ be a **prophet**: proclaim God's Word
-  + not a **false** prophet: speaking what people want to hear
++ It's one thing to say that I **myself** can
++ give up pursuing **money**
+  + to **depend** on God
++ choose a life of **sorrow** over sin,
+  + waiting for **redemption**
++ and be **hated** or misunderstood because I
+  + follow Christ's **priorities**
++ But would I wish this for my **children**?
++ What is a **successful** life?
+  + What is a life of **blessing**?
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
