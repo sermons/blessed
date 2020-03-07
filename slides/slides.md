@@ -295,53 +295,55 @@ in the **midst** of his pursuits.
 
 ---
 <!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
+[21](# "ref")
 Blessed are you who are **hungry** now,<br>
 for you shall be **satisfied**.
 
+[21](# "ref")
 你們飢餓的人有福了！ <br>
 因為你們將要飽足。
 
-[Luke 路加 6:21a (ESV)](# "ref")
-[Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
-
----
-<!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
+[25](# "ref")
 Woe to you who are **full** now,<br>
 for you shall be **hungry**.
 
+[25](# "ref")
 你們飽足的人有禍了！<br>
 因為你們將要飢餓。
 
-[Luke 路加 6:25a (ESV)](# "ref")
+[Luke 路加 6:21a, 25a (ESV)](# "ref")
+[Neven Krcmarek, Popovec, Croatia](https://unsplash.com/photos/M4KpA7NC-l0 "caption")
 
 >>>
-+ hunger &rArr; sated (fodder) / filled
-+ Mt: hunger for **righteousness**
-+ **discomfort**, yearn: things **not right**
-  + world is broken under **sin**
-+ if we're **satisfied** with way things are
-  + we are **missing** out
++ The similar passage in **Matthew** describes
+  + a hunger and thirst for **righteousness**
+  + 飢渴慕義的人 (Mt5:6)
++ Hunger implies **discomfort**: yearning,
+  + feeling things are **not right**.
++ The world is broken under **sin** --
+  + if we're **satisfied** with way things are
+  + we're **missing** out
 
 ---
 <!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
+[21](# "ref")
 “Blessed are you who **weep** now,<br>
 for you shall **laugh**.
 
+[21](# "ref")
 你們哀哭的人有福了！ <br>
 因為你們將要喜笑。
 
-[Luke 路加 6:21b (ESV)](# "ref")
-[Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
-
----
-<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
+[25](# "ref")
 “Woe to you who **laugh** now,<br>
 for you shall **mourn** and weep.
 
+[25](# "ref")
 你們喜笑的人有禍了！ <br>
 因為你們將要哀慟哭泣。
 
-[Luke 路加 6:25b (ESV)](# "ref")
+[Luke 路加 6:21b, 25b (ESV)](# "ref")
+[Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
 
 >>>
 + cry + sorrow &rArr; laugh
