@@ -160,8 +160,8 @@ for yours is the **kingdom** of God.
   + who relies on the **charity** of others
 + The Greeks and Romans deemed this **shameful**
 + So **why** does Jesus say these are **blessed**?
-+ Because in truth, **all** of us are **destitute**,
-  + utterly **dependent** on God
++ **Who** are those who will inherit
+  + the **kingdom of God**?
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -171,7 +171,7 @@ will not inherit the **kingdom of God**?
 你們豈不知不義的人<br>
 不能承受神的國麼？
 
-[I Corinthians 6:9-11 (ESV) (p.1/3)](# "ref")
+[I Corinthians 歌林多前 6:9-11 (ESV) (p.1/3)](# "ref")
 [Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
 
 ---
@@ -189,13 +189,13 @@ will **inherit** the kingdom of God.
 ... 作孌童的、 ... 貪婪的、<br>
 ... 都不能承受神的國。
 
-[I Corinthians 6:9-11 (ESV) (p.2/3)](# "ref")
+[I Corinthians 歌林多前 6:9-11 (ESV) (p.2/3)](# "ref")
 
 >>>
-+ God is **holy**
-+ inheriting His **kingdom** requires holiness
-+ not just about wicked **others**
-  + **greed**, **anger**:
++ God is **holy**, so those with any **sin**
+  + cannot inherit His **kingdom**
++ It's easy to think this verse is talking
+  + about **others** who are wicked, but:
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -211,18 +211,19 @@ and by the **Spirit** of our God.
 但如今你們奉主耶穌基督的名，<br>
 並藉著我們神的靈，已經洗淨，成聖，稱義了。
 
-[I Corinthians 6:9-11 (ESV) (p.3/3)](# "ref")
+[I Corinthians 歌林多前 6:9-11 (ESV) (p.3/3)](# "ref")
 
 >>>
-+ this is **us**: not **working** to earn a living
-  + but **destitute**, dependent
-+ The kingdom of God is given not to working **righteous**
-  + but to the **forgiven**
-+ **inheriting** kingdom as **adopted** children
-  + by Christ's **sacrifice**
++ This is **us**!
++ We are unable to **earn** our own living
+  + but are **destitute**, poor
+  + utterly **dependent** on God
++ The **kingdom** of God is given not to 
+  + those who **work hard** at being good
++ but to those who are **forgiven**
   + by God's **grace**
-+ **this** is true **richness**!
-+ riches in **this life** are cold comfort:
++ **This** is true **richness**!
++ **Money** in this life is little **comfort**:
 
 ---
 <!-- .slide: <%= bg("negativespace-money.jpg") %> -->
@@ -235,11 +236,12 @@ for you have received your **consolation**.
 [Luke 路加 6:24 (ESV)](# "ref")
 
 >>>
-+ rich (abundance): need anything, swipe **card**
-  + never know **lack**
-+ never **realise** how far short we fall from God's standard
-  + or how much we **need** His grace
-+ are receiving our **encouragement** now:
++ If we are **rich** and don't know what
+  + it feels like to **lack**, then
++ we don't **realise** how far short 
+  + we fall from **God's** standard
+  + or how much we **need** His grace.
++ Money provides some **encouragement** now,
   + but it is so **fleeting**:
 
 ---
@@ -254,23 +256,27 @@ in the **midst** of his pursuits.
 [James 1:11 (ESV)](# "ref")
 
 >>>
-+ e.g., JJ **too many** toys
-  + becomes **stressful**
-+ lose their **fun**
-  + even **while** playing with them!
-+ fun only while **new** (unboxing)
++ e.g., our son has so many **toys** now
+  + that it becomes a bit **stressful**:
++ they lose their **fun**
+  + even **while** he's playing with them!
++ they're only fun while **new**
+  + so he constantly desires **new** toys.
++ In the same way, pursuing **money**
+  + as a sign of **success**
+  + is just as **futile** and **exhausting**
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I find **richness** in my **destitution** before God?
+# Do I feel I am **rich** because I am **dependent** on God?
 
 >>>
-+ without experiencing utter **poverty**
-  + **inability** to provide for self
-+ never know true **blessing** of **grace**
-  + what it feels like to be **forgiven**
-+ blessed are you the **poor**,
-  + for yours is the **kingdom** of God
++ Do I realise how **wretched** I am
+  + compared to God's perfect **holiness**?
++ Do I know what it feels like to be **forgiven**,
+  + the true **blessing** of **grace**?
++ "Blessed are you the **poor**,
+  + for yours is the **kingdom** of God" (v20)
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
@@ -280,10 +286,12 @@ in the **midst** of his pursuits.
 1. A Good Name <br> 好的名聲 [(v22-23/26)](# "ref")
 
 >>>
-+ highlights **temporal** aspect:
-  + **now** vs **future**
-+ Jesus tells us our future **hope**
-  + gives us strength to **endure**
++ The next section of **blessings**/woes
++ focuses on the aspect of **time**:
+  + **now** vs the **future**
++ Jesus tells us what our future **hope** is,
+  + giving us **strength**
+  + to wait **patiently** for it
 
 ---
 <!-- .slide: <%= bg("unsplash-M4KpA7NC-l0-grapes_bowl.jpg") %> -->
