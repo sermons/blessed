@@ -269,8 +269,8 @@ in the **midst** of his pursuits.
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I feel I am **rich** because I am **dependent** on God?
-## 因為我依靠神，我覺得我是富有的嗎?
+## Do I feel I am **rich** because <br> I am **dependent** on God?
+## 因為我依靠神，<br> 我覺得我是富有的嗎?
 
 >>>
 + Do I realise how **wretched** I am
@@ -463,7 +463,7 @@ and no one will **take** your joy from you.
 
 ---
 <!-- .slide: data-background="white" -->
-## Do I **grieve** <br> over the **ruin** <br> of our world?
+## Do I **grieve** over <br> the **ruin** of our world?
 ## 我會為世上的敗壞而傷心嗎？
 
 >>>
