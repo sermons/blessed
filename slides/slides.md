@@ -15,13 +15,12 @@ What constitutes a **blessed** life?
 + relaxing on a tropical **beach**? 
   + good **friends**, happy **family**?
   + enjoying the **"good life"**?
-+ Today's passage is called the **Beatitudes**
-  + where Jesus tells us 
-  + what kind of people receive **blessing**
-  + and what kind receive **woe**
-+ By **remembering** prophets of old
-  + and looking **forward** to Christ's return,
-+ we must adjust our **value** system:
++ Today's passage tells us 
+  + who will receive **blessing**
+  + and who will receive **woe**
++ We must look **back** to prophets of old
+  + and look **forward** to Christ's return;
++ we must change our **value** system now:
   + what we deem as **good**, successful
   + important, worth **pursuing**
 
