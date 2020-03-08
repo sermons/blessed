@@ -3,6 +3,9 @@
 # 蒙福的人生
 ## Luke 路加 6:20-26
 
+>>>
+What constitutes a **blessed** life? 
+
 ---
 <!-- .slide: data-background="white" -->
 ## What constitutes <br> a **blessed** life?
@@ -16,8 +19,8 @@
   + where Jesus tells us 
   + what kind of people receive **blessing**
   + and what kind receive **woe**
-+ When we **remember** prophets of old
-  + and look **forward** to Christ's return,
++ By **remembering** prophets of old
+  + and looking **forward** to Christ's return,
 + we must adjust our **value** system:
   + what we deem as **good**, successful
   + important, worth **pursuing**
@@ -123,8 +126,7 @@ for so their fathers did to the false prophets."
 1. A Good **Name** <br> 好的名聲 [(v22-23/26)](# "ref")
 
 >>>
-+ In this version of the beatitudes in Luke,
-  + Jesus has 3 groups of **blessing**
++ This passage has 3 groups of **blessing**
   + and 3 groups of **woe**
 + The first is about **money**:
   + the **poor** in this life are the ones 
@@ -163,6 +165,7 @@ for yours is the **kingdom** of God.
 + So **why** does Jesus say these are **blessed**?
 + **Who** are those who will inherit
   + the **kingdom of God**?
++ 1 Corinthians 6 tells us:
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -174,6 +177,9 @@ will not inherit the **kingdom of God**?
 
 [I Corinthians 歌林多前 6:9-11 (ESV) (p.1/3)](# "ref")
 [Dylan Roberts, Strumble Head Lighthouse, UK](https://unsplash.com/photos/ndsRLeQBlsA "caption")
+
+>>>
+*(continue reading)*
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -216,8 +222,7 @@ and by the **Spirit** of our God.
 
 >>>
 + This is **us**!
-+ We are unable to **earn** our own living
-  + but are **destitute**, poor
++ We are **wretched**, poor,
   + utterly **dependent** on God
 + The **kingdom** of God is given not to 
   + those who **work hard** at being good
@@ -243,7 +248,8 @@ for you have received your **consolation**.
   + we fall from **God's** standard
   + or how much we **need** His grace.
 + Money provides some **encouragement** now,
-  + but it is so **fleeting**:
+  + but it is so **fleeting**! 
+  + James 1 reminds us:
 
 ---
 <!-- .slide: <%= bg("unsplash-_jN5_9zu8DM-sunflower.jpg") %> -->
@@ -259,9 +265,9 @@ in the **midst** of his pursuits.
 >>>
 + e.g., our son has so many **toys** now
   + that it becomes a bit **stressful**:
-+ they lose their **fun**
++ They lose their **fun**
   + even **while** he's playing with them!
-+ they're only fun while **new**
++ They're only fun while **new**,
   + so he constantly desires **new** toys.
 + In the same way, pursuing **money**
   + as a sign of **success**
@@ -292,7 +298,7 @@ in the **midst** of his pursuits.
 + focuses on the aspect of **time**:
   + **now** vs the **future**
 + Jesus tells us what our future **hope** is,
-  + giving us **strength**
+  + giving us **strength** in the present
   + to wait **patiently** for it
 
 ---
@@ -349,10 +355,10 @@ for you shall **mourn** and weep.
 
 >>>
 + e.g., my son said the **world**
-  + doesn't seem to be getting **worse**,
-  + today is the same as **yesterday**: 
+  + doesn't seem to be getting **worse**:
+  + Today is the same as **yesterday**,
   + everyday we just **play**!
-+ But in **Amos**, God warns those who
++ But in **Amos** 6, God warns those who
   + focus on play or **relaxation**:
 
 ---
@@ -398,7 +404,10 @@ but are not **grieved** over the **ruin of Joseph**!
 + **Godly grief**: so much **sin** / hurt in world
   + because of our **pride** 
   + desiring **independence** from God
-+ But this sorrow is only **temporary**:
++ Our collective **sin** is why the world is **broken**
+  + **disease**, famine, war
++ But take heart! **John** 16 encourages us,
+  + this sorrow is only **temporary**:
 
 ---
 <!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
@@ -414,6 +423,9 @@ but your sorrow will turn into **joy**.
 
 [John 約翰 16:20-22 (ESV) (p.1/3)](# "ref")
 [Janko Ferlič, Koper, Slovenia](https://unsplash.com/photos/EpbIXGCrtK0 "caption")
+
+>>>
+*(continue reading)*
 
 ---
 <!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
@@ -467,7 +479,7 @@ and no one will **take** your joy from you.
 ## 我會為世上的敗壞而傷心嗎？
 
 >>>
-+ Our country, city, church, families, 
++ **Grieve** over our country, city, church, families, 
   + and even our **own** sin
 + Our **pride**, wanting to assert 
   + **independence** from God
@@ -475,10 +487,10 @@ and no one will **take** your joy from you.
   + I will be **wailing** when Christ comes
   + with His **judgment**
 + But if I have **godly grief** over sin
-  + leading to **repentance**
+  + Grief that leads to **repentance**,
   + a **change** of heart;
-+ if I **long** for Christ's return
-  + I have hope to **see** Him
++ If I **long** for Christ's return, then
+  + I have hope to **see** Him,
   + and my **heart** will rejoice
 
 ---
@@ -513,19 +525,19 @@ on account of the **Son of Man**!
 >>>
 + On **account** of Christ,
 + are we ok with being **hated**:
-  + **rejected** and opposed by the world
-  + **without** hating them back,
-  + as v27 reminds us?
+  + **rejected** and opposed by the world?
++ v27 reminds us **not** to hate them back
 + Are we ok with being **excluded**:
   + the world draws a **horizon** line,
 + and **reviles** us:
   + deems us as **shameful**, 
   + a **disgrace**, a reproach?
-+ They will use even our **name**
-  + and the name **"Christian"**
++ They will use even our **name**,
+  + and the name **"Christian"**,
   + as an **insult**
   + as something deemed **wicked**
 + How should we **respond**?
+  + 1 Peter 4 tells us:
 
 ---
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
@@ -610,9 +622,10 @@ for so their fathers did to the **false prophets**.
 + It was the **false** prophets 
   + who were **admired** and welcomed
 + because they spoke only 
-  + what the **audience** wanted to hear
-+ They were only **reinforcing** existing values,
-  + supporting the **sinful** nature
+  + what the **audience** wanted to hear,
+  + **reinforcing** the **sinful** nature
++ In **John** 15, Jesus speaks
+  + to us His **disciples**:
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
