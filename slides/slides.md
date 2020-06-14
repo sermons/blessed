@@ -161,9 +161,11 @@ will **inherit** the kingdom of God.
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
 [11](# "ref")
-And such were some of **you**.<br>
+And such were some of **you**.
+
 But you were **washed**, <br>
-you were **sanctified**, you were **justified**<br>
+you were **sanctified**, you were **justified**
+
 in the name of the Lord **Jesus Christ** <br>
 and by the **Spirit** of our God.
 
@@ -221,7 +223,7 @@ in the **midst** of his pursuits.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I feel I am **rich** because <br> I am **dependent** on God?
+# Do I feel I am **rich** because I am **dependent** on God?
 
 >>>
 + Do I realise how **wretched** I am
@@ -334,7 +336,8 @@ but are not **grieved** over the **ruin of Joseph**!
 <!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 [20](# "ref")
 You will **weep** and lament,<br>
-but the world will **rejoice**.<br>
+but the world will **rejoice**.
+
 You will be **sorrowful**, <br>
 but your sorrow will turn into **joy**. 
 
@@ -348,9 +351,11 @@ but your sorrow will turn into **joy**.
 <!-- .slide: <%= bg("unsplash-EpbIXGCrtK0-baby_feet.jpg") %> -->
 [21](# "ref")
 When a woman is giving **birth**,<br>
-she has **sorrow** because her hour has come,<br>
+she has **sorrow** because her hour has come,
+
 but when she has **delivered** the baby,<br>
-she **no longer remembers** the anguish,<br>
+she **no longer remembers** the anguish,
+
 for **joy** that a human being has been<br>
 born into the world.
 
@@ -383,7 +388,7 @@ and no one will **take** your joy from you.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I **grieve** over <br> the **ruin** of our world?
+# Do I **grieve** over <br> the **ruin** of <br> our world?
 
 >>>
 + **Grieve** over our country, city, church, families, 
@@ -461,7 +466,8 @@ when his **glory** is revealed.
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [14](# "ref")
 If you are **insulted** for the name of Christ,<br>
-you are **blessed**,<br>
+you are **blessed**,
+
 because the **Spirit** of glory and of God<br>
 rests upon you. 
 
@@ -517,9 +523,11 @@ for so their fathers did to the **false prophets**.
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 [19](# "ref")
 If you were **of the world**,<br>
-the world would **love** you as its own;<br>
+the world would **love** you as its own;
+
 but because you are **not** of the world,<br>
-but I **chose** you out of the world,<br>
+but I **chose** you out of the world,
+
 therefore the world **hates** you. 
 
 [John 15:19,20 (ESV) (p.1/2)](# "ref")
@@ -535,7 +543,8 @@ therefore the world **hates** you.
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
 [20](# "ref")
 If they **persecuted** me,<br>
-they will also persecute you.<br>
+they will also persecute you.
+
 If they **kept** my word,<br>
 they will also keep yours.
 
@@ -554,7 +563,7 @@ they will also keep yours.
 
 ---
 <!-- .slide: data-background="white" -->
-# Whose **approval** do I crave?
+# Whose **approval** <br> do I crave?
 
 >>>
 + It's one thing to say that I **myself** can
