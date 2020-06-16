@@ -3,22 +3,26 @@
 ## Luke 6:20-26
 
 >>>
-What constitutes a **blessed** life? 
++ We all **seek** blessing
+  + for selves + our **children**
++ Every **father** wants the **best** for children
+  + **happy**, people of **integrity**
++ **pray** they have lives full of **blessing**:
 
 ---
 <!-- .slide: data-background="white" -->
 # What constitutes <br> a **blessed** life?
 
 >>>
-+ relaxing on a tropical **beach**? 
-  + good **friends**, happy **family**?
-  + enjoying the **"good life"**?
-+ Today's passage tells us 
++ is it about **comfort**? 
+  + not having **lack** or **suffering**?
+  + being **recognized** or **appreciated** by others?
++ Today's passage tells us clearly
   + who will receive **blessing**
   + and who will receive **woe**
-+ We must look **back** to prophets of old
-  + and look **forward** to Christ's return;
-+ we must change our **value** system now:
++ Encourages us to look **back** to prophets of old
+  + and **forward** to Christ's return;
++ Challenges us to change our **value** system now:
   + what we deem as **good**, successful
   + important, worth **pursuing**
 
