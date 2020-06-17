@@ -14,10 +14,8 @@
 # What constitutes <br> a **blessed** life?
 
 >>>
-+ is it about **comfort**? 
-  + not having **lack** or **suffering**?
-  + leaving **legacy**,
-  + being **recognized** or **appreciated** by others?
++ is it about **comfort**? no **lack** / **suffering**?
++ leaving **legacy**, being **recog** / apprec by others?
 + Today's passage tells us clearly
   + who will receive **blessing**
   + and who will receive **woe**
@@ -26,6 +24,8 @@
 + Challg. us in the **now** to change **value** system:
   + what we deem as **good**, successful
   + important, worth **pursuing**
++ Together, consider **God's** value system
+  + and behold the Lamb of God
 
 ******
 [20](# "ref")
