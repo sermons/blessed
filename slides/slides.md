@@ -3,7 +3,8 @@
 ## Luke 6:20-26
 
 >>>
-+ We all **seek** blessing
++ When we come to **worship** God, 
+  + it's **natural** to seek blessings
   + for selves + our **children**
 + Every **father** wants the **best** for children
   + be **happy**, people of **integrity**
