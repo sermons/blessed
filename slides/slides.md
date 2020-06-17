@@ -218,9 +218,10 @@ in the **midst** of his pursuits.
 + Only fun while **new**, so const desires **new** toys
 + I'm just same: **boys** like their **toys**, and
   + **bigger** boys like bigger toys! (e.g., computers)
-+ In same way, pursuing external **indicators** of success
-  + is just as **futile** and **exhausting**
-  + e.g., job **title**, house, car, watch, priv sch
++ **Rich** man fades away in the **midst** of his pursuits
++ Pursuing external **indicators** of success
+  + is both **futile** and **exhausting**:
+  + e.g., job **title**, house, car, watch, private sch
 + In fact, our son already **realizes** this
   + toys not **fulfilling**, esp when heart **disquieted**
   + only plays w/toys when **we're** too busy for him
@@ -411,13 +412,14 @@ and no one will **take** your joy from you.
   + and even our **own** sin:
 + Our **pride**, desire to assert **indep** from God
 + "Don't **want** hear **grief**, life already full **pain**:
-  + give me **encour**!"
-+ If I am **comfortable**, idle, I will be
+  + Give me **encouragement**! Power, victory!"
++ If I pursue **comfort** / idleness now, I will be
   + **wailing** when Christ comes in **judgment**
-+ But if I have **godly grief** over sin
-  + leads to **repentance**: **change** of heart
-+ If **long** for Christ's return, then hope to **see**,
-  + and then my **heart** will rejoice
++ But if I have **godly grief** over sin,
+  + leading to **repentance**: **change** of heart
++ If **long** for Christ's return, 
+  + then I have hope to **see** Him again,
++ when my **heart** will rejoice, with
   + **lasting** joy that none can take away
 
 ---
@@ -432,8 +434,9 @@ and no one will **take** your joy from you.
   + and learn to **depend** on God
 + It is better to **grieve** over sin
   + and **hope** in Christ's return
-+ Better to be **shamed** by world, mocked, misunderstood
-  + but be **approved** by God
++ Better to be **shamed** by world,
+  + mocked, **misunderstood**
++ but be **approved** by God
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
@@ -451,12 +454,10 @@ on account of the **Son of Man**!
 + are we ok with being **hated**:
   + **rejected** and opposed by the world?
 + v27 reminds us **not** to hate them back
-+ Are we ok with being **excluded**:
-  + the world draws a **horizon** line,
-+ and **reviles** us: deems us as **shameful**, 
++ Are we ok with being **excluded** (**horizon** line)
++ and **reviled**: deemed as **shameful**, 
   + a **disgrace**, a reproach?
-+ They will use even our **name**,
-  + and the name **"Christian"**,
++ They will use even our **name** ("Christian")
   + as an **insult**, something deemed **wicked**
 + How should we **respond**?
   + 1 Peter 4 tells us:
@@ -514,7 +515,8 @@ for so their fathers did to the **prophets**.
 + We have the very same **Word** of God
   + and same **task** to **proclaim** it boldly
   + just like the **prophets** did
-+ Even though they were **misunderstood** and mistreated for it
++ Even though they were **misunderstood**
+  + and **mistreated** for it.
 + On the **other** hand:
 
 ---
@@ -557,7 +559,8 @@ therefore the world **hates** you.
 + Our citizenship, our **home** is in heaven
   + and we long to **go** there
 + So it should not be **surprising** that
-  + world deems us **delusional**, misguided, or even evil
+  + world deems us **delusional**,
+  + misguided, or even **evil**
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
@@ -586,13 +589,13 @@ they will also keep yours.
 # Whose **approval** <br> do I crave?
 
 >>>
-+ Wanting to be **validated** by **peers** / friends
-  + hear my **parents** say they're proud of me
-  + hear my **spouse** / kids say I'm a good parent
++ Want to be **validated** by gp of **peers** / friends
+  + hear **parents** say they're **proud** of me
+  + hear **spouse** / kids say I'm a good **parent**
 + Will I **hold** to name of Jesus 
   + even if it means being **reviled** by all?
-+ It's one thing to say that I **myself** can
-+ give up pursuing **money** to **depend** on God's grace
++ It's one thing to say that I **myself** can give up
+  + pursuing **money** to **depend** God's grace
 + choose a life of **sorrow** over sin,
   + waiting for Christ's **redemption**
 + be **hated** / misunderstood because I 
