@@ -628,22 +628,18 @@ for so their fathers did to the **prophets**.
 >>>
 + See life through **Your** eyes
   + **value** what You value, prioritize
-
 + Not to pursue worldly **riches** that 
   + fade away like the **flowers**
 + But to realize how **destitute** we are
   + before Your **glory** + holiness
 + Oh, how **rich** it is to know we are **forgiven**!
-
 + Not to be **content** w/comfortable lives
   + while world **devours** itself in sin
 + But always be **hungry** for Your righteousness
   + Godly **sorrow** that leads to repentance
-
 + Not to **say** what people want to **hear**
   + whatever **clickbait** gets most **likes**
 + But proclaim Your **Word** boldly as OT **prophets** did
   + **leaping** for joy to be considered
   + **worthy** of suffering for Your Name
-
 + To rediscover **truly blessed** life in You
