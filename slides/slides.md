@@ -6,7 +6,7 @@
 + We all **seek** blessing
   + for selves + our **children**
 + Every **father** wants the **best** for children
-  + **happy**, people of **integrity**
+  + be **happy**, people of **integrity**
 + **pray** they have lives full of **blessing**:
 
 ---
@@ -16,13 +16,14 @@
 >>>
 + is it about **comfort**? 
   + not having **lack** or **suffering**?
+  + leaving **legacy**,
   + being **recognized** or **appreciated** by others?
 + Today's passage tells us clearly
   + who will receive **blessing**
   + and who will receive **woe**
 + Encourages us to look **back** to prophets of old
   + and **forward** to Christ's return;
-+ Challenges us to change our **value** system now:
++ Challg. us in the **now** to change **value** system:
   + what we deem as **good**, successful
   + important, worth **pursuing**
 
@@ -117,8 +118,7 @@ for yours is the **kingdom** of God.
 [Nikolay Svishchev-Paola, "Beggar with a Lyra", 1900](https://commons.wikimedia.org/wiki/File:Beggar_with_a_Lyra,_by_Svishchev-Paola_1900s.jpg "caption")
 
 >>>
-+ Greek has a couple words for the **poor**:
-  + One is for **working** peasants,
++ Gr words for **poor**: e.g., **working** peasants,
   + who have very little **money**,
   + but are **hard-working**, doing manual labour.
 + The word used here is for the **destitute**:
@@ -126,7 +126,7 @@ for yours is the **kingdom** of God.
 + It refers to one who is utterly 
   + **unable** to provide for himself,
   + who relies on the **charity** of others
-+ The Greeks and Romans deemed this **shameful**
++ Gr / Rom deemed this **shameful**!
 + So **why** does Jesus say these are **blessed**?
 + **Who** are those who will inherit
   + the **kingdom of God**?
@@ -157,9 +157,8 @@ will **inherit** the kingdom of God.
 >>>
 + God is **holy**, so those with any **sin**
   + cannot inherit His **kingdom**
-+ It's easy to think this verse is talking
-  + about **others** who are wicked, but
-+ It's actually taking about **us**!
++ It's easy to apply this verse to **others**, but
++ it's actually taking about **us**!
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -181,7 +180,8 @@ and by the **Spirit** of our God.
   + those who **work hard** at being good
 + but to those who are **forgiven**
   + by God's **grace**
-+ **This** is true **richness**!
++ **This** is true **richness**:
+  + to know I am **forgiven**
 + **Money** in this life is little **comfort**:
 
 ---
@@ -213,17 +213,16 @@ in the **midst** of his pursuits.
 [James 1:11 (ESV)](# "ref")
 
 >>>
-+ e.g., our son has so many **toys**
-  + that it becomes a bit **stressful**:
-+ They lose their **fun**
-  + even **while** he's playing with them!
-+ They're only fun while **new**,
-  + so he constantly desires **new** toys.
-+ In the same way, pursuing **money**
-  + as a sign of **success**
++ e.g., son so many **toys**, becomes bit **stressful**:
+  + lose their **fun** even **while** playing!
++ Only fun while **new**, so const desires **new** toys
+  + (**me** too w/computers! **obsolete** so quickly)
++ In same way, pursuing external **indicators** of success
   + is just as **futile** and **exhausting**
+  + e.g., job **title**, house, car, watch, priv sch
 + In fact, our son already **realizes** this
-  + only plays w/toys when we're too **busy** for him
+  + toys not **fulfilling**, esp when heart **disquieted**
+  + only plays w/toys when **we're** too busy for him
   + hope he'll in time find being close to **God** is best
 
 ---
@@ -246,9 +245,13 @@ in the **midst** of his pursuits.
 1. A Good Name [(v22-23/26)](# "ref")
 
 >>>
-+ The next section of **blessings**/woes
++ Our rich **inheritance** consists not of
+  + fleeting riches **earned** for ourselves, but
++ realizing how **destitute** we are before God, and
+  + knowing we are **forgiven**.
++ Next section of **blessings** / woes
 + focuses on the aspect of **time**:
-  + **now** vs the **future**
+  + **present** vs **future**
 + Jesus tells us what our future **hope** is,
   + giving us **strength** in the present
   + to wait **patiently** for it
@@ -272,9 +275,12 @@ for you shall be **hungry**.
   + 飢渴慕義的人 (Mt5:6)
 + Hunger implies **discomfort**: yearning,
   + feeling things are **not right**.
-+ The world is broken under **sin** --
-  + if we're **satisfied** with way things are
++ The world is broken under **sin**,
+  + **we** + our families are broken under sin
++ If we're **satisfied** with way things are,
   + we're **missing** out
++ **Hunger** is related to the next pair
+  + about **sorrow**:
 
 ---
 <!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
@@ -292,8 +298,10 @@ for you shall **mourn** and weep.
 >>>
 + e.g., my son when younger said the **world**
   + doesn't seem to be getting **worse**:
-  + Today is the same as **yesterday**,
++ Today is the same as **yesterday**,
   + everyday we just **play**!
++ I'm the **same**: we are pretty **comfortable**
+  + no **coronavirus**, no systemic **racism** against us
 + But in **Amos** 6, God warns those who
   + focus on play or **relaxation**:
 
@@ -311,7 +319,7 @@ and calves from the midst of the **stall**,
 
 >>>
 + The emphasis is on **luxury**, living at ease,
-+ being **idle**, not working,
+  + being **idle**, not working,
 + having an **abundance**, no fear of running out
 
 ---
@@ -329,13 +337,12 @@ but are not **grieved** over the **ruin of Joseph**!
   + just **laugh** and enjoy life
 + We've forgotten the **ruin** of our hearts
   + our families, church, country, world
-+ **Godly grief**: so much **sin** / hurt in world
-  + because of our **pride** 
-  + desiring **independence** from God
-+ Our collective **sin** is why the world is **broken**
++ **Godly grief**: so much **sin** / hurt bc our **pride** 
+  + desire for **independence** from God
++ Our collective **sin** is why the world is **broken**:
   + **disease**, famine, war
 + In times of **pandemic**, injustice, and unrest
-  + even our son understands **brokenness** of world
+  + our son sees **brokenness** of world
 + But take heart! **John** 16 encourages us,
   + this sorrow is only **temporary**:
 
@@ -386,8 +393,9 @@ and no one will **take** your joy from you.
 [John 16:20-22 (ESV) (p.3/3)](# "ref")
 
 >>>
-+ This is the **hope** that we have not yet received:
-  + we are **longing** for Christ,
++ This is the **hope** 
+  + that we have not **yet** received:
++ **longing** for Christ,
   + unable to **see** Him,
 + but when He **returns**
   + our **faith** will become **sight**,
@@ -399,18 +407,17 @@ and no one will **take** your joy from you.
 
 >>>
 + **Grieve** over our country, city, church, families, 
-  + and even our **own** sin
-+ Our **pride**, wanting to assert 
-  + **independence** from God
-+ If I am **comfortable**, idle
-  + I will be **wailing** when Christ comes
-  + with His **judgment**
+  + and even our **own** sin:
++ Our **pride**, desire to assert **indep** from God
++ "Don't **want** hear **grief**, life already full **pain**:
+  + give me **encour**!"
++ If I am **comfortable**, idle, I will be
+  + **wailing** when Christ comes in **judgment**
 + But if I have **godly grief** over sin
-  + Grief that leads to **repentance**,
-  + a **change** of heart;
-+ If I **long** for Christ's return, then
-  + I have hope to **see** Him,
-  + and my **heart** will rejoice
+  + leads to **repentance**: **change** of heart
++ If **long** for Christ's return, then hope to **see**,
+  + and then my **heart** will rejoice
+  + **lasting** joy that none can take away
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
@@ -424,14 +431,15 @@ and no one will **take** your joy from you.
   + and learn to **depend** on God
 + It is better to **grieve** over sin
   + and **hope** in Christ's return
-+ It is better to be **shamed** by the world
-  + and be **approved** by God
++ Better to be **shamed** by world, mocked, misunderstood
+  + but be **approved** by God
 
 ---
 <!-- .slide: <%= bg("unsplash-xCdFXXoZkJc-dark_sky.jpg") %> -->
 Blessed are you when people **hate** you<br>
 and when they **exclude** you and **revile** you<br>
-and spurn your **name** as evil,<br>
+and spurn your **name** as evil,
+
 on account of the **Son of Man**!
 
 [Luke 6:22 (ESV)](# "ref")
@@ -444,13 +452,11 @@ on account of the **Son of Man**!
 + v27 reminds us **not** to hate them back
 + Are we ok with being **excluded**:
   + the world draws a **horizon** line,
-+ and **reviles** us:
-  + deems us as **shameful**, 
++ and **reviles** us: deems us as **shameful**, 
   + a **disgrace**, a reproach?
 + They will use even our **name**,
   + and the name **"Christian"**,
-  + as an **insult**
-  + as something deemed **wicked**
+  + as an **insult**, something deemed **wicked**
 + How should we **respond**?
   + 1 Peter 4 tells us:
 
@@ -458,7 +464,8 @@ on account of the **Son of Man**!
 <!-- .slide: <%= bg("unsplash-9gGQvhC4PEY-dark_lake_sunset.jpg") %> -->
 [13](# "ref")
 But **rejoice** insofar as <br>
-you share Christ's **sufferings**,<br>
+you share Christ's **sufferings**,
+
 that you may also rejoice and be glad<br>
 when his **glory** is revealed.
 
@@ -482,9 +489,10 @@ rests upon you.
 
 >>>
 + There's no **honor** in suffering for doing **wrong**
-+ But if we suffer for the name of **Christ**
-+ We are **blessed**, and
-  + we are **not alone**:
++ But if we suffer for the name of **Christ**,
+  + we are **blessed**, and
++ We are **not alone**:
+  + We're in **good company**!
 + We receive the **Holy Spirit** now
   + and a **promise** in heaven:
 
@@ -498,15 +506,15 @@ for so their fathers did to the **prophets**.
 [Briton Rivière, "Daniel in the Lion's Den", 1892](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1615647&partId=1 "caption")
 
 >>>
-+ And we'll be in good **company**:
-+ The Old Testament **prophets** 
++ The Old Testament **prophets** also
   + spoke the **word** of God
-  + and were **beaten**, ostracized
++ and were **beaten**, ostracized
   + branded **traitors**, and shamed
-+ We also have **God's Word**
-  + and we have the same **task**
-  + to **proclaim** it boldly
++ We have the very same **Word** of God
+  + and same **task** to **proclaim** it boldly
   + just like the **prophets** did
++ Even though they were **misunderstood** and mistreated for it
++ On the **other** hand:
 
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
@@ -522,7 +530,9 @@ for so their fathers did to the **false prophets**.
   + who were **admired** and welcomed
 + because they spoke only 
   + what the **audience** wanted to hear,
-  + **reinforcing** the **sinful** nature
++ **reinforcing** the **sinful** nature:
+  + "You're **good** + on the **right** track"
+  + who **wouldn't** be happy to hear that?
 + In **John** 15, Jesus speaks
   + to us His **disciples**:
 
@@ -545,6 +555,8 @@ therefore the world **hates** you.
   + we are **called** out of it
 + Our citizenship, our **home** is in heaven
   + and we long to **go** there
++ So it should not be **surprising** that
+  + world deems us **delusional**, misguided, or even evil
 
 ---
 <!-- .slide: <%= bg("unsplash-IEHPDNk2-8w-matterhorn.jpg") %> -->
@@ -575,14 +587,15 @@ they will also keep yours.
 >>>
 + It's one thing to say that I **myself** can
 + give up pursuing **money**
-  + to **depend** on God
+  + to **depend** on God's grace
 + choose a life of **sorrow** over sin,
-  + waiting for **redemption**
-+ and be **hated** or misunderstood because I
+  + waiting for Christ's **redemption**
++ be **hated** or misunderstood because I
   + follow Christ's **priorities**
 + But would I wish this for my **children**?
 + What is a **successful** life?
   + What is a life of **blessing**?
++ **Read** Luke 6:22-23:
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
