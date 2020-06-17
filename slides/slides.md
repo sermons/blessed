@@ -99,9 +99,7 @@ for so their fathers did to the false prophets."
 + This passage has 3 groups of **blessing**
   + and 3 groups of **woe**
 + The first is about **money**:
-  + the **poor** in this life are the ones 
-  + who are truly **blessed**,
-  + not the **rich**!
+  + what a truly **enriched** life is
 + The second group is about
   + planning for the **future** 
   + in light of God's **judgment**
@@ -124,7 +122,7 @@ for yours is the **kingdom** of God.
   + who have very little **money**,
   + but are **hard-working**, doing manual labour.
 + The word used here is for the **destitute**:
-  + the word means "crouched down".
+  + the word means "**crouched** down".
 + It refers to one who is utterly 
   + **unable** to provide for himself,
   + who relies on the **charity** of others
@@ -132,7 +130,7 @@ for yours is the **kingdom** of God.
 + So **why** does Jesus say these are **blessed**?
 + **Who** are those who will inherit
   + the **kingdom of God**?
-+ 1 Corinthians 6 tells us:
++ 1 Cor 6 tells us who **won't**:
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -160,7 +158,8 @@ will **inherit** the kingdom of God.
 + God is **holy**, so those with any **sin**
   + cannot inherit His **kingdom**
 + It's easy to think this verse is talking
-  + about **others** who are wicked, but:
+  + about **others** who are wicked, but
++ It's actually taking about **us**!
 
 ---
 <!-- .slide: <%= bg("unsplash-ndsRLeQBlsA-dark_clouds.jpg") %> -->
@@ -176,7 +175,6 @@ and by the **Spirit** of our God.
 [I Corinthians 6:9-11 (ESV) (p.3/3)](# "ref")
 
 >>>
-+ This is **us**!
 + We are **wretched**, poor,
   + utterly **dependent** on God
 + The **kingdom** of God is given not to 
@@ -215,7 +213,7 @@ in the **midst** of his pursuits.
 [James 1:11 (ESV)](# "ref")
 
 >>>
-+ e.g., our son has so many **toys** now
++ e.g., our son has so many **toys**
   + that it becomes a bit **stressful**:
 + They lose their **fun**
   + even **while** he's playing with them!
@@ -224,6 +222,9 @@ in the **midst** of his pursuits.
 + In the same way, pursuing **money**
   + as a sign of **success**
   + is just as **futile** and **exhausting**
++ In fact, our son already **realizes** this
+  + only plays w/toys when we're too **busy** for him
+  + hope he'll in time find being close to **God** is best
 
 ---
 <!-- .slide: data-background="white" -->
@@ -289,7 +290,7 @@ for you shall **mourn** and weep.
 [Ben White](https://unsplash.com/photos/4K2lIP0zc_k "caption")
 
 >>>
-+ e.g., my son said the **world**
++ e.g., my son when younger said the **world**
   + doesn't seem to be getting **worse**:
   + Today is the same as **yesterday**,
   + everyday we just **play**!
@@ -333,6 +334,8 @@ but are not **grieved** over the **ruin of Joseph**!
   + desiring **independence** from God
 + Our collective **sin** is why the world is **broken**
   + **disease**, famine, war
++ In times of **pandemic**, injustice, and unrest
+  + even our son understands **brokenness** of world
 + But take heart! **John** 16 encourages us,
   + this sorrow is only **temporary**:
 
