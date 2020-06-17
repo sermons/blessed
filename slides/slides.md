@@ -216,7 +216,8 @@ in the **midst** of his pursuits.
 + e.g., son so many **toys**, becomes bit **stressful**:
   + lose their **fun** even **while** playing!
 + Only fun while **new**, so const desires **new** toys
-  + (**me** too w/computers! **obsolete** so quickly)
++ I'm just same: **boys** like their **toys**, and
+  + **bigger** boys like bigger toys! (e.g., computers)
 + In same way, pursuing external **indicators** of success
   + is just as **futile** and **exhausting**
   + e.g., job **title**, house, car, watch, priv sch
@@ -585,16 +586,19 @@ they will also keep yours.
 # Whose **approval** <br> do I crave?
 
 >>>
++ Wanting to be **validated** by **peers** / friends
+  + hear my **parents** say they're proud of me
+  + hear my **spouse** / kids say I'm a good parent
++ Will I **hold** to name of Jesus 
+  + even if it means being **reviled** by all?
 + It's one thing to say that I **myself** can
-+ give up pursuing **money**
-  + to **depend** on God's grace
++ give up pursuing **money** to **depend** on God's grace
 + choose a life of **sorrow** over sin,
   + waiting for Christ's **redemption**
-+ be **hated** or misunderstood because I
++ be **hated** / misunderstood because I 
   + follow Christ's **priorities**
 + But would I wish this for my **children**?
-+ What is a **successful** life?
-  + What is a life of **blessing**?
++ What is **successful** life?  life of **blessing**?
 + **Read** Luke 6:22-23:
 
 ---
