@@ -222,10 +222,10 @@ in the **midst** of his pursuits.
 + Pursuing external **indicators** of success
   + is both **futile** and **exhausting**:
   + e.g., job **title**, house, car, watch, private sch
-+ In fact, our son already **realizes** this
-  + toys not **fulfilling**, esp when heart **disquieted**
++ In fact, our son already **realizes** this:
+  + toys not **fulfilling**, esp when heart **disquiet**
   + only plays w/toys when **we're** too busy for him
-  + hope he'll in time find being close to **God** is best
++ hope in time find being close to **God** is best
 
 ---
 <!-- .slide: data-background="white" -->
@@ -303,7 +303,8 @@ for you shall **mourn** and weep.
 + Today is the same as **yesterday**,
   + everyday we just **play**!
 + I'm the **same**: we are pretty **comfortable**
-  + no **coronavirus**, no systemic **racism** against us
+  + no **coronavirus**
+  + no systemic **racism** against us (to same extent)
 + But in **Amos** 6, God warns those who
   + focus on play or **relaxation**:
 
@@ -453,7 +454,7 @@ on account of the **Son of Man**!
 + On **account** of Christ,
 + are we ok with being **hated**:
   + **rejected** and opposed by the world?
-+ v27 reminds us **not** to hate them back
+  + (v27 reminds us **not** to hate them back)
 + Are we ok with being **excluded** (**horizon** line)
 + and **reviled**: deemed as **shameful**, 
   + a **disgrace**, a reproach?
@@ -492,11 +493,11 @@ rests upon you.
 >>>
 + There's no **honor** in suffering for doing **wrong**
 + But if we suffer for the name of **Christ**,
-  + we are **blessed**, and
+  + we are **blessed**:
++ We receive the **Holy Spirit** now
+  + and a future **reward** in heaven, and
 + We are **not alone**:
   + We're in **good company**!
-+ We receive the **Holy Spirit** now
-  + and a **promise** in heaven:
 
 ---
 <!-- .slide: <%= bg("Riviere-Daniels_Answer_to_the_King.jpg") %> -->
@@ -512,12 +513,12 @@ for so their fathers did to the **prophets**.
   + spoke the **word** of God
 + and were **beaten**, ostracized
   + branded **traitors**, and shamed
-+ We have the very same **Word** of God
++ We today have the very same **Word** of God
   + and same **task** to **proclaim** it boldly
-  + just like the **prophets** did
-+ Even though they were **misunderstood**
-  + and **mistreated** for it.
-+ On the **other** hand:
++ Will I **leap** for joy at being 
+  + **misunderstood** + mistreated
+  + as the OT **prophets** were?
++ On the **other** hand, v26:
 
 ---
 <!-- .slide: <%= bg("unsplash-w8g2vws1VBQ-stream_water_trickle.jpg") %> -->
@@ -621,3 +622,26 @@ for so their fathers did to the **prophets**.
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="empty" -->
+
+>>>
++ See life through **Your** eyes
+  + **value** what You value, prioritize
+
++ Not to pursue worldly **riches** that 
+  + fade away like the **flowers**
++ But to realize how **destitute** we are
+  + before Your **glory** + holiness
++ Oh, how **rich** it is to know we are **forgiven**!
+
++ Not to be **content** w/comfortable lives
+  + while world **devours** itself in sin
++ But always be **hungry** for Your righteousness
+  + Godly **sorrow** that leads to repentance
+
++ Not to **say** what people want to **hear**
+  + whatever **clickbait** gets most **likes**
++ But proclaim Your **Word** boldly as OT **prophets** did
+  + **leaping** for joy to be considered
+  + **worthy** of suffering for Your Name
+
++ To rediscover **truly blessed** life in You
