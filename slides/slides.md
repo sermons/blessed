@@ -25,7 +25,7 @@
 + Challg. us in the **now** to change **value** system:
   + what we deem as **good**, successful
   + important, worth **pursuing**
-+ Together, consider **God's** value system
++ Together, turn attention to **God's** value system
   + and behold the Lamb of God
 
 ******
@@ -100,7 +100,7 @@ for so their fathers did to the false prophets."
 >>>
 + This passage has 3 groups of **blessing**
   + and 3 groups of **woe**
-+ The first is about **money**:
++ The first pair bless/woe is about **money**:
   + what a truly **enriched** life is
 + The second group is about
   + planning for the **future** 
@@ -109,6 +109,7 @@ for so their fathers did to the false prophets."
   + do I **care** more about 
   + what **people** think of me
   + or what **God** asks of me?
++ Starting in v20:
 
 ---
 <!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
