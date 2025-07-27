@@ -1,6 +1,68 @@
 # Spare slide content here
 ## Not rendered in presentation
 
+******
+[20](# "ref")
+And he lifted up his eyes <br>
+on his disciples, and said:
+
+“Blessed are you who are poor,<br>
+for yours is the kingdom of God.
+
+[Luke 6:20-26 (ESV) (p.1/7)](# "ref")
+
+******
+[21](# "ref")
+“Blessed are you who are hungry now,<br>
+for you shall be satisfied.
+
+“Blessed are you who weep now,<br>
+for you shall laugh.
+
+[Luke 6:20-26 (ESV) (p.2/7)](# "ref")
+
+******
+[22](# "ref")
+“Blessed are you when people hate you<br>
+and when they exclude you and revile you<br>
+and spurn your name as evil,<br>
+on account of the Son of Man!
+
+[Luke 6:20-26 (ESV) (p.3/7)](# "ref")
+
+******
+[23](# "ref")
+Rejoice in that day, and leap for joy,<br>
+for behold, your reward is great in heaven;<br>
+for so their fathers did to the prophets.
+
+[Luke 6:20-26 (ESV) (p.4/7)](# "ref")
+
+******
+[24](# "ref")
+“But woe to you who are rich,<br>
+for you have received your consolation.
+
+[Luke 6:20-26 (ESV) (p.5/7)](# "ref")
+
+******
+[25](# "ref")
+“Woe to you who are full now,<br>
+for you shall be hungry.
+
+“Woe to you who laugh now,<br>
+for you shall mourn and weep.
+
+[Luke 6:20-26 (ESV) (p.6/7)](# "ref")
+
+******
+[26](# "ref")
+“Woe to you, <br>
+when all people speak well of you,<br>
+for so their fathers did to the false prophets."
+
+[Luke 6:20-26 (ESV) (p.7/7)](# "ref")
+
 ---
 ## [Amy Carmichael](https://www.christianity.com/church/church-history/timeline/1901-2000/amy-carmichael-kindly-kidnapper-11630664.html)
 
